@@ -1,0 +1,64 @@
+{
+  "items": [
+    {
+      "title": "Cart & Checkout Builder",
+      "image": "Landing-Cart-Checkout-Builder.jpg",
+      "url": "https://codex-themes.com/thegem/cart-checkout-builder/"
+    },
+    {
+      "title": "Modern (Boxed)",
+      "image": "01-Modern-Boxed.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/preview/cart-modern-boxed/"
+    },
+    {
+      "title": "Clean Dark",
+      "image": "02-Clean-Dark-MiniSteps.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/preview/cart-clean-dark/"
+    },
+    {
+      "title": "Clean Light",
+      "image": "03-Clean-Light.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/preview/cart-clean-light/"
+    },
+    {
+      "title": "Box",
+      "image": "04-Box.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/preview/cart-box/"
+    },
+    {
+      "title": "Fullwidth",
+      "image": "05-Fullwidth.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/preview/cart-fullwidth/"
+    },
+    {
+      "title": "Flat Light",
+      "image": "06-Flat-Light.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/preview/cart-flat-light/"
+    },
+    {
+      "title": "Flat Dark",
+      "image": "07-Flat-Dark.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/preview/cart-flat-dark/"
+    },
+    {
+      "title": "Flat Off Grid",
+      "image": "08-Flat-Off-Grid.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/preview/cart-flat-off-grid/"
+    },
+    {
+      "title": "One Column 01",
+      "image": "09-One-Column-1.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/preview/cart-one-column-01/"
+    },
+    {
+      "title": "One Column 02",
+      "image": "10-One-Column-2.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/preview/cart-one-column-02/"
+    },
+    {
+      "title": "Modern (Fullwidth)",
+      "image": "11-Modern-Fullwidth.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/preview/cart-modern-fullwidth/"
+    }
+  ]
+}

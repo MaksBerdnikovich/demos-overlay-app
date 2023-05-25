@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "title": "Blog Categories Builder",
+      "img1x": "1x/Landing-Blog-Categories-Builder.jpg",
+      "img2x": "2x/Landing-Blog-Categories-Builder.jpg",
+      "url": "https://codex-themes.com/thegem/blog-archives-builder/"
+    },
+    {
+      "title": "Single Post Builder",
+      "img1x": "1x/Landing-Single-Post.jpg",
+      "img2x": "2x/Landing-Single-Post.jpg",
+      "url": "https://codex-themes.com/thegem/single-post-builder/"
+    }
+  ]
+}

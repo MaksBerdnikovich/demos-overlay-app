@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "title": "Typography",
+      "url": "https://codex-themes.com/thegem/elements/typography/",
+      "icon": "lowercase"
+    },
+    {
+      "title": "Accordions & Toggles",
+      "url": "https://codex-themes.com/thegem/elements/accordions-toggles/",
+      "icon": "menuRounded"
+    },
+    {
+      "title": "Lists & Tables",
+      "url": "https://codex-themes.com/thegem/elements/styled-lists-tables/",
+      "icon": "todoList"
+    },
+    {
+      "title": "Pricing Tables",
+      "url": "https://codex-themes.com/thegem/elements/pricing-tables/",
+      "icon": "salesPerformance"
+    },
+    {
+      "title": "Tabs & Tours",
+      "url": "https://codex-themes.com/thegem/elements/tabs-styles/",
+      "icon": "extraFeatures"
+    },
+    {
+      "title": "Videos",
+      "url": "https://codex-themes.com/thegem/elements/videos/",
+      "icon": "playButton"
+    },
+    {
+      "title": "Buttons",
+      "url": "https://codex-themes.com/thegem/elements/push-the-button/",
+      "icon": "touchpad"
+    },
+    {
+      "title": "Contact Forms",
+      "url": "https://codex-themes.com/thegem/elements/contact-forms/",
+      "icon": "securedLetter"
+    },
+    {
+      "title": "Google Maps",
+      "url": "https://codex-themes.com/thegem/elements/google-maps/",
+      "icon": "placeMarker"
+    },
+    {
+      "title": "Icons",
+      "url": "https://codex-themes.com/thegem/elements/icons/",
+      "icon": "jewel"
+    },
+    {
+      "title": "Styled Textboxes",
+      "url": "https://codex-themes.com/thegem/elements/styled-textboxes/",
+      "icon": "ocr"
+    },
+    {
+      "title": "Fancy Textboxes",
+      "url": "https://codex-themes.com/thegem/elements/fancy-textboxes/",
+      "icon": "pollHorizontal"
+    },
+    {
+      "title": "Styled Images",
+      "url": "https://codex-themes.com/thegem/elements/styled-images/",
+      "icon": "fullImage"
+    },
+    {
+      "title": "Clients",
+      "url": "https://codex-themes.com/thegem/elements/clients/",
+      "icon": "testAccount"
+    },
+    {
+      "title": "Counters",
+      "url": "https://codex-themes.com/thegem/elements/counters/",
+      "icon": "clock"
+    },
+    {
+      "title": "CTA & Alert Boxes",
+      "url": "https://codex-themes.com/thegem/elements/alert-boxes/",
+      "icon": "movieTicket"
+    },
+    {
+      "title": "Diagrams & Charts",
+      "url": "https://codex-themes.com/thegem/elements/diagram/",
+      "icon": "pieChart"
+    },
+    {
+      "title": "Quickfinders",
+      "url": "https://codex-themes.com/thegem/elements/quickfinders-01/",
+      "icon": "userShield"
+    },
+    {
+      "title": "Teams",
+      "url": "https://codex-themes.com/thegem/elements/teams/",
+      "icon": "people"
+    },
+    {
+      "title": "Testimonials",
+      "url": "https://codex-themes.com/thegem/elements/testimonials/",
+      "icon": "getQuote"
+    },
+    {
+      "title": "Product Categories",
+      "url": "https://codex-themes.com/thegem/shop/product-categories/",
+      "icon": "tags"
+    },
+    {
+      "title": "Products Grid",
+      "url": "https://codex-themes.com/thegem/sites/products-grid-landing/",
+      "icon": "spreadsheet"
+    },
+    {
+      "title": "Product Carousel",
+      "url": "https://codex-themes.com/thegem/shop/product-carousel/",
+      "icon": "viewCarousel"
+    },
+    {
+      "title": "Product Tabs",
+      "url": "https://codex-themes.com/thegem/shop/product-tabs-2/",
+      "icon": "filingCabinet"
+    },
+    {
+      "title": "Shop Filters",
+      "url": "https://codex-themes.com/thegem/shop/shop-filters/",
+      "icon": "conversion"
+    },
+    {
+      "title": "Products By Status",
+      "url": "https://codex-themes.com/thegem/shop/products-by-status/",
+      "icon": "getDiscount"
+    },
+    {
+      "title": "Products Category",
+      "url": "https://codex-themes.com/thegem/shop/products-category/",
+      "icon": "chamfer"
+    }
+  ]
+}

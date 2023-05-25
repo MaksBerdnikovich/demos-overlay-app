@@ -1,0 +1,148 @@
+{
+  "items": [
+    {
+      "title": "Blog Grid Features",
+      "url": "https://codex-themes.com/thegem/advanced-grids-overview/",
+      "img1x": "1x/01-Blog-Grid-Features.jpg",
+      "img2x": "2x/01-Blog-Grid-Features.jpg"
+    },
+    {
+      "title": "Extended Justified Grid #1",
+      "url": "https://codex-themes.com/thegem/grid-extended/extended-blog-justified-demo-01/",
+      "img1x": "1x/02-Extended-Justified-Grids-01.jpg",
+      "img2x": "2x/02-Extended-Justified-Grids-01.jpg"
+    },
+    {
+      "title": "Extended Justified Grid #2",
+      "url": "https://codex-themes.com/thegem/grid-alternative/extended-blog-justified-demo-02/",
+      "img1x": "1x/03-Extended-Justified-Grids-02.jpg",
+      "img2x": "2x/03-Extended-Justified-Grids-02.jpg"
+    },
+    {
+      "title": "Extended Masonry Grid",
+      "url": "https://codex-themes.com/thegem/grid-alternative/extended-blog-masonry-demo/",
+      "img1x": "1x/04-Extended-Masonry-Grids.jpg",
+      "img2x": "2x/04-Extended-Masonry-Grids.jpg"
+    },
+    {
+      "title": "Alternative Justified Grid",
+      "url": "https://codex-themes.com/thegem/grid-extended/extended-blog-justified-demo-03/",
+      "img1x": "1x/05-Alternative-Justified-Grids.jpg",
+      "img2x": "2x/05-Alternative-Justified-Grids.jpg"
+    },
+    {
+      "title": "Justified Grid",
+      "url": "https://codex-themes.com/thegem/blog/justified-grids/post-grid-a/",
+      "img1x": "1x/06-Justified-Grids.jpg",
+      "img2x": "2x/06-Justified-Grids.jpg"
+    },
+    {
+      "title": "Masonry Grid",
+      "url": "https://codex-themes.com/thegem/blog/masonry-grids/blog-masonry-4-x-dark/",
+      "img1x": "1x/07-Masonry-Grids.jpg",
+      "img2x": "2x/07-Masonry-Grids.jpg"
+    },
+    {
+      "title": "Metro Style Grid",
+      "url": "https://codex-themes.com/thegem/grid-extended/extended-blog-metro-style/",
+      "img1x": "1x/08-Metro-Style-Grids.jpg",
+      "img2x": "2x/08-Metro-Style-Grids.jpg"
+    },
+    {
+      "title": "Packery Style Grid",
+      "url": "https://codex-themes.com/thegem/grid-extended/extended-blog-packery-style/",
+      "img1x": "1x/16-Packery-Style-Grids.jpg",
+      "img2x": "2x/16-Packery-Style-Grids.jpg"
+    },
+    {
+      "title": "Creative Timeline",
+      "url": "https://codex-themes.com/thegem/blog/timelines/blog-timeline-dark/",
+      "img1x": "1x/09-Creative-Timeline.jpg",
+      "img2x": "2x/09-Creative-Timeline.jpg"
+    },
+    {
+      "title": "Timeline List",
+      "url": "https://codex-themes.com/thegem/blog/timelines/blog-timeline-style-b/",
+      "img1x": "1x/10-Timeline-List.jpg",
+      "img2x": "2x/10-Timeline-List.jpg"
+    },
+    {
+      "title": "Blog List",
+      "url": "https://codex-themes.com/thegem/blog/classic-list/blog-list-default-sidebar-right/",
+      "img1x": "1x/11-Blog-List.jpg",
+      "img2x": "2x/11-Blog-List.jpg"
+    },
+    {
+      "title": "Styled List #1",
+      "url": "https://codex-themes.com/thegem/blog/styled-lists/blog-list-styled-1/",
+      "img1x": "1x/12-Styled-List-01.jpg",
+      "img2x": "2x/12-Styled-List-01.jpg"
+    },
+    {
+      "title": "Styled List #2",
+      "url": "https://codex-themes.com/thegem/blog/styled-lists/blog-list-styled-2/",
+      "img1x": "1x/13-Styled-List-02.jpg",
+      "img2x": "2x/13-Styled-List-02.jpg"
+    },
+    {
+      "title": "Multi-Author Blog",
+      "url": "https://codex-themes.com/thegem/blog-list-multi-author/",
+      "img1x": "1x/14-Multi-Author-Blog.jpg",
+      "img2x": "2x/14-Multi-Author-Blog.jpg"
+    },
+    {
+      "title": "Compact List Blog",
+      "url": "https://codex-themes.com/thegem/blog/blog-list/",
+      "img1x": "1x/15-Compact-List-Blog.jpg",
+      "img2x": "2x/15-Compact-List-Blog.jpg"
+    },
+    {
+      "title": "Post Demo: Classic Post",
+      "url": "https://codex-themes.com/thegem/simple-blog-post-21/",
+      "img1x": "1x/17-Post-Demo-Classic-Post.jpg",
+      "img2x": "2x/17-Post-Demo-Classic-Post.jpg"
+    },
+    {
+      "title": "Post Demo: Fullwidth Hero",
+      "url": "https://codex-themes.com/thegem/fullwidth-post-sample-3/",
+      "img1x": "1x/18-Post-Demo-Fullwidth-Hero.jpg",
+      "img2x": "2x/18-Post-Demo-Fullwidth-Hero.jpg"
+    },
+    {
+      "title": "Post Demo: With Sidebar",
+      "url": "https://codex-themes.com/thegem/blog-post-left-sidebar/",
+      "img1x": "1x/19-Post-Demo-Post-With-Sidebar.jpg",
+      "img2x": "2x/19-Post-Demo-Post-With-Sidebar.jpg"
+    },
+    {
+      "title": "Post Demo: With Gallery Slider",
+      "url": "https://codex-themes.com/thegem/post-with-gallery-slider/",
+      "img1x": "1x/20-Post-Demo-Post-With-Gallery-Slider.jpg",
+      "img2x": "2x/20-Post-Demo-Post-With-Gallery-Slider.jpg"
+    },
+    {
+      "title": "Post Demo: Video Post",
+      "url": "https://codex-themes.com/thegem/post-with-video-lightbox/",
+      "img1x": "1x/21-Post-Demo-Video-Post.jpg",
+      "img2x": "2x/21-Post-Demo-Video-Post.jpg"
+    },
+    {
+      "title": "Post Demo: 100% Width Post",
+      "url": "https://codex-themes.com/thegem/100-width-galleries-post/",
+      "img1x": "1x/22-Post-Demo-100-Width-Post.jpg",
+      "img2x": "2x/22-Post-Demo-100-Width-Post.jpg"
+    },
+    {
+      "title": "Post Demo: Sticky Sidebar",
+      "url": "https://codex-themes.com/thegem/sites/news-magazine/single-post-style3/",
+      "img1x": "1x/23-Post-Demo-Sticky-Sidebar.gif",
+      "img2x": "2x/23-Post-Demo-Sticky-Sidebar.gif"
+    },
+    {
+      "title": "Post Demo: With Gallery",
+      "url": "https://codex-themes.com/thegem/sites/shop-grid-based/fashion-brands-you-need-to-know-about/",
+      "img1x": "1x/24-Post-Demo-With-Gallery.jpg",
+      "img2x": "2x/24-Post-Demo-With-Gallery.jpg"
+    }
+  ]
+}

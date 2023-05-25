@@ -1,0 +1,2137 @@
+{
+  "cats": [
+    {
+      "id": "all",
+      "title": "All"
+    },
+    {
+      "id": "meta-agency",
+      "title": "Agency"
+    },
+    {
+      "id": "meta-business",
+      "title": "Business"
+    },
+    {
+      "id": "meta-shop",
+      "title": "Shop, WooCommerce"
+    },
+    {
+      "id": "meta-bloggers",
+      "title": "Blog & Magazine"
+    },
+    {
+      "id": "meta-landing",
+      "title": "Landing"
+    },
+    {
+      "id": "meta-app",
+      "title": "Mobile App & ICO"
+    },
+    {
+      "id": "meta-portfolio",
+      "title": "Portfolio"
+    },
+    {
+      "id": "meta-fullscreen",
+      "title": "Fullpage Scroller"
+    },
+    {
+      "id": "meta-onepager",
+      "title": "Onepager"
+    },
+    {
+      "id": "meta-creative",
+      "title": "Creative"
+    },
+    {
+      "id": "meta-photography",
+      "title": "Photography"
+    },
+    {
+      "id": "meta-beauty",
+      "title": "Beauty, SPA & Hairdressing"
+    },
+    {
+      "id": "meta-event",
+      "title": "Events"
+    },
+    {
+      "id": "meta-church",
+      "title": "Church, Charity, Non-Profit"
+    },
+    {
+      "id": "meta-construction-real-estate",
+      "title": "Construction & Real Estate"
+    },
+    {
+      "id": "meta-gym",
+      "title": "Gym & Fitness"
+    },
+    {
+      "id": "meta-ico",
+      "title": "ICO & Cryptocurrency"
+    },
+    {
+      "id": "meta-medical",
+      "title": "Health & Medical"
+    },
+    {
+      "id": "meta-hotel",
+      "title": "Hotels"
+    },
+    {
+      "id": "meta-handyman",
+      "title": "Handyman Services"
+    },
+    {
+      "id": "meta-logistic",
+      "title": "Logistic & Transportation"
+    },
+    {
+      "id": "meta-lawyer",
+      "title": "Lawyers & Attorneys"
+    },
+    {
+      "id": "meta-restaurant",
+      "title": "Restaurant & Cafe"
+    }
+  ],
+  "items": [
+    {
+      "id": 48,
+      "title": "Theme Features",
+      "url": "https:\/\/codex-themes.com\/thegem\/",
+      "slug": "thegem",
+      "cats": [
+        "meta-homes",
+        "meta-landing"
+      ],
+      "img1x": "1x/meta-home-main-landing.jpg",
+      "img2x": "2x/meta-home-main-landing.jpg",
+      "keywords": "main demo landing"
+    },
+    {
+      "id": 99,
+      "title": "TheGem Blocks",
+      "url": "https:\/\/codex-themes.com\/thegem\/blocks-landing\/",
+      "slug": "blocks-landing",
+      "cats": [
+        "meta-homes",
+        "meta-landing"
+      ],
+      "img1x": "1x/meta-home-thegem-blocks-new.jpg",
+      "img2x": "2x/meta-home-thegem-blocks-new.jpg",
+      "tag": "new",
+      "keywords": "demo landing blocks"
+    },
+    {
+      "id": 2,
+      "title": "Digital Agency",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/agency-digital\/",
+      "slug": "agency-sparta",
+      "cats": [
+        "meta-agency",
+        "meta-homes",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "img1x": "1x/meta-home-digital-agency.jpg",
+      "img2x": "2x/meta-home-digital-agency.jpg",
+      "tag": "hot",
+      "keywords": "digital agency company creative"
+    },
+    {
+      "id": 170,
+      "title": "Creative Fashion Shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-creative-fashion/",
+      "slug": "shop-creative-fashion",
+      "cats": [
+        "meta-fashion",
+        "meta-homes",
+        "meta-shop",
+        "meta-glamour-fashion",
+        "meta-update"
+      ],
+      "img1x": "1x/shop-creative-fashion-x1.jpg",
+      "img2x": "2x/shop-creative-fashion-x2.jpg",
+      "tag": "new",
+      "keywords": "creative fashion shop store woocommerce ecommerce"
+    },
+    {
+      "id": 104,
+      "title": "Business Consulting",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/business-consulting-02\/",
+      "slug": "business-consulting-02",
+      "cats": [
+        "meta-business",
+        "meta-homes"
+      ],
+      "img1x": "1x/meta-home-business-consulting-02-new.jpg",
+      "img2x": "2x/meta-home-business-consulting-02-new.jpg",
+      "keywords": "business consulting corporate company"
+    },
+    {
+      "id": 101,
+      "title": "Creative Agency Dark",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/agency-creative-dark\/",
+      "slug": "agency-creative-dark",
+      "cats": [
+        "meta-agency",
+        "meta-creative",
+        "meta-homes"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-agency-creative-dark.jpg",
+      "img2x": "2x/meta-home-agency-creative-dark.jpg",
+      "keywords": "dark agency creative"
+    },
+    {
+      "id": 95,
+      "title": "Digital Marketing",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/digital-marketing\/",
+      "slug": "digital-marketing",
+      "cats": [
+        "meta-agency",
+        "meta-business",
+        "meta-new-in-version-4"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-digital-marketing.jpg",
+      "img2x": "2x/meta-home-digital-marketing.jpg",
+      "keywords": "digital agency company creative"
+    },
+    {
+      "id": 96,
+      "title": "Start-Up Business",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/startup\/",
+      "slug": "start-up-business",
+      "cats": [
+        "meta-agency",
+        "meta-business",
+        "meta-new-in-version-4"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-start-up-business.jpg",
+      "img2x": "2x/meta-home-start-up-business.jpg",
+      "keywords": "business consulting corporate company"
+    },
+    {
+      "id": 74,
+      "title": "Cryptocurrency & ICO Landing",
+      "url": "https:\/\/codex-themes.com\/thegem\/gem-cryptocoin\/",
+      "slug": "cryptocurrency",
+      "cats": [
+        "meta-homes",
+        "meta-business",
+        "meta-landing",
+        "meta-onepager",
+        "meta-app",
+        "meta-ico",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency",
+        "meta-new-in-version-4"
+      ],
+      "tag": "hot",
+      "img1x": "1x/meta-home-cryptocurrency.jpg",
+      "img2x": "2x/meta-home-cryptocurrency.jpg",
+      "keywords": "ico cryptocurrency landing onepager one pager business"
+    },
+    {
+      "id": 153,
+      "title": "Grocery Shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-grocery/",
+      "slug": "shop-grocery",
+      "cats": [
+        "meta-homes",
+        "meta-shop"
+      ],
+      "img1x": "1x/meta-home-shop-grocery.jpg",
+      "img2x": "2x/meta-home-shop-grocery.jpg",
+      "tag": "new",
+      "keywords": "shop store woocommerce ecommerce"
+    },
+    {
+      "id": 113,
+      "title": "Lms Landing",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/lms-landing\/",
+      "slug": "lms-landing",
+      "cats": [
+        "meta-creative",
+        "meta-homes",
+        "meta-landing",
+        "meta-onepager"
+      ],
+      "img1x": "1x/meta-home-lms-landing.jpg",
+      "img2x": "2x/meta-home-lms-landing.jpg",
+      "keywords": "landing creative onepager lms learning"
+    },
+    {
+      "id": 176,
+      "title": "Shop Electronics",
+      "url": "https://codex-themes.com/thegem/sites/shop-electronics/",
+      "slug": "shop-electronics",
+      "cats": [
+        "meta-electronics",
+        "meta-homes",
+        "meta-shop",
+        "meta-update"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-shop-electronics-new.jpg",
+      "img2x": "2x/meta-home-shop-electronics-2x-new.jpg",
+      "keywords": "shop store woocommerce ecommerce electronics"
+    },
+    {
+      "id": 172,
+      "title": "Shop Elegant Fashion",
+      "url": "https://codex-themes.com/thegem/sites/shop-elegant-fashion/",
+      "slug": "shop-elegant-fashion",
+      "cats": [
+        "meta-fashion",
+        "meta-homes",
+        "meta-shop"
+      ],
+      "tag": "new",
+      "img1x": "1x/shop-elegant-fashion-1x.jpg",
+      "img2x": "2x/shop-elegant-fashion-2x.jpg",
+      "keywords": "shop store woocommerce ecommerce"
+    },
+    {
+      "id": 171,
+      "title": "Swimwear & Bikini Shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-swimwear-bikini/",
+      "slug": "shop-swimwear-bikini",
+      "cats": [
+        "meta-fashion",
+        "meta-homes",
+        "meta-shop"
+      ],
+      "img1x": "1x/shop-swimwear-bikini-x1-new.jpg",
+      "img2x": "2x/shop-swimwear-bikini-x1-new.jpg",
+      "tag": "new",
+      "keywords": "online shop store woocommerce ecommerce"
+    },
+    {
+      "id": 9,
+      "title": "Fullscreen scrolling flat",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/fullscreen-vertical-slider-2",
+      "slug": "splash-fullscreen-vertical-slider-2",
+      "cats": [
+        "meta-fullscreen",
+        "meta-homes",
+        "meta-landing",
+        "meta-onepager",
+        "meta-other",
+        "meta-creative"
+      ],
+      "img1x": "1x/meta-home-fullscreen-scrolling-flat.jpg",
+      "img2x": "2x/meta-home-fullscreen-scrolling-flat.jpg",
+      "keywords": "fullscreen vertical scrolling creative landing"
+    },
+    {
+      "id": 152,
+      "title": "Plants Shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-plants/",
+      "slug": "shop-plants",
+      "cats": [
+        "meta-homes",
+        "meta-shop"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-shop-plants.jpg",
+      "img2x": "2x/meta-home-shop-plants.jpg",
+      "keywords": "shop store woocommerce ecommerce"
+    },
+    {
+      "id": 3,
+      "title": "Business Solutions",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/business-solutions\/",
+      "slug": "business-06",
+      "cats": [
+        "meta-business",
+        "meta-homes",
+        "meta-business2",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "img1x": "1x/meta-home-business-solutions.jpg",
+      "img2x": "2x/meta-home-business-solutions.jpg",
+      "keywords": "business solutions consulting corporate company"
+    },
+    {
+      "id": 22,
+      "title": "Interior & Architecture",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/sparta-interior\/",
+      "slug": "interior-sparta",
+      "cats": [
+        "meta-interior",
+        "meta-agency",
+        "meta-business",
+        "meta-homes",
+        "meta-handymen",
+        "meta-other",
+        "meta-construction-real-estate"
+      ],
+      "tag": "hot",
+      "img1x": "1x/meta-home-interior-architecture.jpg",
+      "img2x": "2x/meta-home-interior-architecture.jpg",
+      "keywords": "interior architecture design business real estate"
+    },
+    {
+      "id": 92,
+      "title": "Online Magazine",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/news-magazine\/",
+      "slug": "news-magazine",
+      "cats": [
+        "meta-homes",
+        "meta-lifestyle",
+        "meta-bloggers",
+        "meta-news-magazine",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-online-magazine.jpg",
+      "img2x": "2x/meta-home-online-magazine.jpg",
+      "keywords": "online magazine"
+    },
+    {
+      "id": 56,
+      "title": "Business & IT Event",
+      "url": "https:\/\/codex-themes.com\/thegem\/event-one-page\/",
+      "slug": "business-it-event",
+      "cats": [
+        "meta-business",
+        "meta-homes",
+        "meta-landing",
+        "meta-onepager",
+        "meta-event",
+        "meta-events",
+        "meta-new-in-version-3"
+      ],
+      "img1x": "1x/meta-home-business-it-event.jpg",
+      "img2x": "2x/meta-home-business-it-event.jpg",
+      "keywords": "event business it onepager one page landing"
+    },
+    {
+      "id": 71,
+      "title": "Building & Construction",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/building-construction\/",
+      "slug": "building-construction",
+      "cats": [
+        "meta-interior",
+        "meta-business",
+        "meta-construction",
+        "meta-homes",
+        "meta-handymen",
+        "meta-other",
+        "meta-construction-real-estate"
+      ],
+      "img1x": "1x/meta-home-building-construction.jpg",
+      "img2x": "2x/meta-home-building-construction.jpg",
+      "keywords": "building construction company business"
+    },
+    {
+      "id": 103,
+      "title": "Agency Onepager",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/agency-creative-onepager\/",
+      "slug": "agency-creative-onepager",
+      "cats": [
+        "meta-agency",
+        "meta-creative",
+        "meta-onepager",
+        "meta-homes"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-agency-creative-onepager.jpg",
+      "img2x": "2x/meta-home-agency-creative-onepager.jpg",
+      "keywords": "agency creative onepager"
+    },
+    {
+      "id": 107,
+      "title": "Agency Fullpage",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/agency-fullpage\/",
+      "slug": "agency-fullpage",
+      "cats": [
+        "meta-fullscreen",
+        "meta-agency",
+        "meta-homes",
+        "meta-onepager"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-agency-fullpage.jpg",
+      "img2x": "2x/meta-home-agency-fullpage.jpg",
+      "keywords": "agency onepager one pager landing"
+    },
+    {
+      "id": 177,
+      "title": "Electronics Store",
+      "url": "https://codex-themes.com/thegem/sites/electronics-woocommerce-store/",
+      "slug": "electronics-woocommerce-store",
+      "cats": [
+        "meta-electronics",
+        "meta-homes",
+        "meta-shop",
+        "meta-update"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-electronics-woocommerce-store.jpg",
+      "img2x": "2x/meta-home-electronics-woocommerce-store-2x.jpg",
+      "keywords": "shop store woocommerce ecommerce electronics"
+    },
+    {
+      "id": 151,
+      "title": "Interior shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-interior/",
+      "slug": "shop-interior",
+      "cats": [
+        "meta-homes",
+        "meta-shop"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-shop-interior.jpg",
+      "img2x": "2x/meta-home-shop-interior.jpg",
+      "keywords": "shop store woocommerce ecommerce"
+    },
+    {
+      "id": 4,
+      "title": "Fashion Store 01",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/shop-online\/",
+      "slug": "shop-03",
+      "cats": [
+        "meta-fashion",
+        "meta-homes",
+        "meta-shop",
+        "meta-wootech",
+        "meta-glamour-fashion",
+        "meta-update"
+      ],
+      "img1x": "1x/meta-home-online-shop.jpg",
+      "img2x": "2x/meta-home-online-shop.jpg",
+      "tag": "hot",
+      "keywords": "online shop store woocommerce ecommerce"
+    },
+    {
+      "id": 102,
+      "title": "Creative Agency Light",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/agency-creative-light\/",
+      "slug": "agency-creative-light",
+      "cats": [
+        "meta-agency",
+        "meta-creative",
+        "meta-homes"
+      ],
+      "img1x": "1x/meta-home-agency-creative-light.jpg",
+      "img2x": "2x/meta-home-agency-creative-light.jpg",
+      "keywords": "light agency creative"
+    },
+    {
+      "id": 11,
+      "title": "Photography Studio",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/photography-studio\/",
+      "slug": "gem-photo",
+      "cats": [
+        "meta-homes",
+        "meta-photography",
+        "meta-photography-blog",
+        "meta-fashion"
+      ],
+      "img1x": "1x/meta-home-photography-studio.jpg",
+      "img2x": "2x/meta-home-photography-studio.jpg",
+      "keywords": "photography portfolio studio photographer"
+    },
+    {
+      "id": 19,
+      "title": "TheGem Agency",
+      "url": "https:\/\/codex-themes.com\/thegem\/media-one-pager\/",
+      "slug": "thegem-agency",
+      "cats": [
+        "meta-agency",
+        "meta-creative",
+        "meta-homes",
+        "meta-onepager",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "tag": "hot",
+      "img1x": "1x/meta-home-thegem-agency.jpg",
+      "img2x": "2x/meta-home-thegem-agency.jpg",
+      "keywords": "onepager one pager creative agency digital company webdesign studio"
+    },
+    {
+      "id": 26,
+      "title": "Agency Bright",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/agency-raven\/",
+      "slug": "agency-raven",
+      "cats": [
+        "meta-agency",
+        "meta-homes"
+      ],
+      "img1x": "1x/meta-home-agency-bright.jpg",
+      "img2x": "2x/meta-home-agency-bright.jpg",
+      "keywords": "agency bright digital company webdesign"
+    },
+    {
+      "id": 81,
+      "title": "Fashion Blog",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/fashion-blog\/",
+      "slug": "fashion-blog",
+      "cats": [
+        "meta-homes",
+        "meta-bloggers",
+        "meta-news-magazine",
+        "meta-photography",
+        "meta-photography-blog",
+        "meta-glamour-fashion",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-fashion-blog.jpg",
+      "img2x": "2x/meta-home-fashion-blog.jpg",
+      "keywords": "fashion blog magazine grid advanced online blogger"
+    },
+    {
+      "id": 173,
+      "title": "Shop Stylish Fashion",
+      "url": "https://codex-themes.com/thegem/sites/shop-stylish-fashion/",
+      "slug": "shop-stylish-fashion",
+      "cats": [
+        "meta-homes",
+        "meta-shop"
+      ],
+      "tag": "new",
+      "img1x": "1x/shop-stylish-fashion-x1.jpg",
+      "img2x": "2x/shop-stylish-fashion-x1.jpg",
+      "keywords": "creative shop online store woocommerce ecommerce"
+    },
+    {
+      "id": 18,
+      "title": "Ristorante",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/delicious-restaurant\/",
+      "slug": "restaurant",
+      "cats": [
+        "meta-homes",
+        "meta-other",
+        "meta-restaurant",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "tag": "hot",
+      "img1x": "1x/meta-home-ristorante.jpg",
+      "img2x": "2x/meta-home-ristorante.jpg",
+      "keywords": "restaurant cafe ristorante food"
+    },
+    {
+      "id": 28,
+      "title": "Product Landing",
+      "url": "https:\/\/codex-themes.com\/thegem\/product-landing-3\/",
+      "slug": "product-landing-3",
+      "cats": [
+        "meta-homes",
+        "meta-landing",
+        "meta-wootech"
+      ],
+      "tag": "hot",
+      "img1x": "1x/meta-home-product-landing.jpg",
+      "img2x": "2x/meta-home-product-landing.jpg",
+      "keywords": "product landing"
+    },
+    {
+      "id": 1,
+      "title": "Creative Dark",
+      "url": "https:\/\/codex-themes.com\/thegem\/splash-creative-dark\/",
+      "slug": "splash-creative-dark",
+      "cats": [
+        "meta-creative",
+        "meta-homes",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "tag": "hot",
+      "img1x": "1x/meta-home-creative-dark.jpg",
+      "img2x": "2x/meta-home-creative-dark.jpg",
+      "keywords": "creative dark agency"
+    },
+    {
+      "id": 174,
+      "title": "Lingerie Shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-lingerie/",
+      "slug": "shop-lingerie",
+      "cats": [
+        "meta-homes",
+        "meta-shop",
+        "meta-creative"
+      ],
+      "tag": "new",
+      "img1x": "1x/shop-lingerie-x1.jpg",
+      "img2x": "2x/shop-lingerie-x2.jpg",
+      "keywords": "creative shop online store woocommerce ecommerce"
+    },
+    {
+      "id": 8,
+      "title": "App One-Pager",
+      "url": "https:\/\/codex-themes.com\/thegem\/app-one-pager\/",
+      "slug": "app-one-pager",
+      "cats": [
+        "meta-app",
+        "meta-homes",
+        "meta-wootech",
+        "meta-landing",
+        "meta-onepager",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "img1x": "1x/meta-home-app-one-pager.jpg",
+      "img2x": "2x/meta-home-app-one-pager.jpg",
+      "keywords": "app onepager one pager landing"
+    },
+    {
+      "id": 7,
+      "title": "Portfolio Light",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/portfolio-light\/",
+      "slug": "splash-portfolio-light-02",
+      "cats": [
+        "meta-homes",
+        "meta-photography",
+        "meta-portfolio",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "img1x": "1x/meta-home-portfolio-light.jpg",
+      "img2x": "2x/meta-home-portfolio-light.jpg",
+      "keywords": "portfolio light photography creative modern"
+    },
+    {
+      "id": 154,
+      "title": "Watches Shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-watches/",
+      "slug": "shop-watches",
+      "cats": [
+        "meta-homes",
+        "meta-shop"
+      ],
+      "tag": "new",
+      "img1x": "1x/shop-watches.jpg",
+      "img2x": "2x/shop-watches.jpg",
+      "keywords": "shop store woocommerce ecommerce"
+    },
+    {
+      "id": 108,
+      "title": "Photography Fullpage",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/photography-vertical-slider\/",
+      "slug": "photography-vertical-slider",
+      "cats": [
+        "meta-fullscreen",
+        "meta-homes",
+        "meta-photography",
+        "meta-onepager"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-photography-vertical-slider.jpg",
+      "img2x": "2x/meta-home-photography-vertical-slider.jpg",
+      "keywords": "photography onepager one pager landing"
+    },
+    {
+      "id": 105,
+      "title": "Business Services 01",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/business-services-01\/",
+      "slug": "business-services-01",
+      "cats": [
+        "meta-business",
+        "meta-homes"
+      ],
+      "img1x": "1x/meta-home-business-services-01.jpg",
+      "img2x": "2x/meta-home-business-services-01.jpg",
+      "keywords": "business services"
+    },
+    {
+      "id": 14,
+      "title": "Creative Agency",
+      "url": "https:\/\/codex-themes.com\/thegem\/agency-one-pager\/",
+      "slug": "creative-agency",
+      "cats": [
+        "meta-agency",
+        "meta-creative",
+        "meta-homes",
+        "meta-onepager",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "img1x": "1x/meta-home-creative-agency.jpg",
+      "img2x": "2x/meta-home-creative-agency.jpg",
+      "keywords": "onepager one pager creative agency digital company webdesign studio"
+    },
+    {
+      "id": 80,
+      "title": "Lifestyle Blog",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/lifestyle-blog\/",
+      "slug": "lifestyle-blog",
+      "cats": [
+        "meta-homes",
+        "meta-lifestyle",
+        "meta-bloggers",
+        "meta-news-magazine",
+        "meta-travel",
+        "meta-hotel",
+        "meta-photography",
+        "meta-photography-blog",
+        "meta-glamour-fashion",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-lifestyle-blog.jpg",
+      "img2x": "2x/meta-home-lifestyle-blog.jpg",
+      "keywords": "lifestyle blog magazine grid advanced online blogger"
+    },
+    {
+      "id": 112,
+      "title": "Lms App Landing",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/lms-app-landing\/",
+      "slug": "lms-app-landing",
+      "cats": [
+        "meta-app",
+        "meta-homes",
+        "meta-landing",
+        "meta-onepager"
+      ],
+      "img1x": "1x/meta-home-lms-app-landing.jpg",
+      "img2x": "2x/meta-home-lms-app-landing.jpg",
+      "keywords": "landing creative onepager app lms learning"
+    },
+    {
+      "id": 23,
+      "title": "Construction Business",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/construction\/home\/home-construction-2\/",
+      "slug": "construction-page-01",
+      "cats": [
+        "meta-interior",
+        "meta-business",
+        "meta-construction",
+        "meta-homes",
+        "meta-handymen",
+        "meta-other",
+        "meta-construction-real-estate",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "img1x": "1x/meta-home-construction.jpg",
+      "img2x": "2x/meta-home-construction.jpg",
+      "keywords": "construction building company business"
+    },
+    {
+      "id": 24,
+      "title": "Hairdressing & Makeup",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/hairdressing-makeup\/",
+      "slug": "beauty-salon-02",
+      "cats": [
+        "meta-beauty",
+        "meta-homes",
+        "meta-other",
+        "meta-fashion",
+        "meta-glamour-fashion"
+      ],
+      "img1x": "1x/meta-home-hairdressing-makeup.jpg",
+      "img2x": "2x/meta-home-hairdressing-makeup.jpg",
+      "keywords": "hair hairdressing makeup beauty salon spa"
+    },
+    {
+      "id": 72,
+      "title": "Gemcoin, ICO & Cryptocurrency",
+      "url": "https:\/\/codex-themes.com\/thegem\/gem-coin\/",
+      "slug": "gemcoin",
+      "cats": [
+        "meta-homes",
+        "meta-business",
+        "meta-landing",
+        "meta-onepager",
+        "meta-app",
+        "meta-ico",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-gemcoin.jpg",
+      "img2x": "2x/meta-home-gemcoin.jpg",
+      "keywords": "ico cryptocurrency landing onepager one pager business"
+    },
+    {
+      "id": 160,
+      "title": "Medical Cannabis Shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-medical-cannabis/",
+      "slug": "shop-medical-cannabis",
+      "cats": [
+        "meta-shop",
+        "meta-cannabis",
+        "meta-medical",
+        "meta-marijuana",
+        "meta-health",
+        "meta-shop",
+        "meta-store",
+        "meta-product",
+        "meta-ecommerce",
+        "meta-woocommerce"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-shop-medical-cannabis-1x.jpg",
+      "img2x": "2x/meta-shop-medical-cannabis-2x.jpg",
+      "keywords": "cannabis medical marijuana health shop store product ecommerce woocommerce"
+    },
+    {
+      "id": 161,
+      "title": "Organic Cosmetics Shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-organic-cosmetics/",
+      "slug": "shop-organic-cosmetics",
+      "cats": [
+        "meta-shop",
+        "meta-cosmetics",
+        "meta-organic",
+        "meta-beauty",
+        "meta-cream",
+        "meta-body",
+        "meta-shampoo",
+        "meta-shop",
+        "meta-store",
+        "meta-product",
+        "meta-ecommerce",
+        "meta-woocommerce"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-shop-organic-cosmetics-1x.jpg",
+      "img2x": "2x/meta-shop-organic-cosmetics-2x.jpg",
+      "keywords": "cosmetics organic beauty cream body shampoo shop store product ecommerce woocommerce"
+    },
+    {
+      "id": 40,
+      "title": "Fullscreen Scrolling",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/fullscreen-vertical-slider-1\/",
+      "slug": "splash-fullscreen-vertical-slider-1",
+      "cats": [
+        "meta-fullscreen",
+        "meta-homes",
+        "meta-landing",
+        "meta-onepager",
+        "meta-other"
+      ],
+      "tag": "hot",
+      "img1x": "1x/meta-home-fullscreen-scrolling.jpg",
+      "img2x": "2x/meta-home-fullscreen-scrolling.jpg",
+      "keywords": "fullscreen vertical scrolling creative landing"
+    },
+    {
+      "id": 17,
+      "title": "Lawyers & Attorneys 01",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/lawyers-attorneys\/",
+      "slug": "lawyers-attorneys-1",
+      "cats": [
+        "meta-business",
+        "meta-homes",
+        "meta-lawyer",
+        "meta-other",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "img1x": "1x/meta-home-lawyers-attorneys-01.jpg",
+      "img2x": "2x/meta-home-lawyers-attorneys-01.jpg",
+      "keywords": "law lawyers attorneys company legal business"
+    },
+    {
+      "id": 91,
+      "title": "Lifestyle Magazine",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/lifestyle-magazine\/",
+      "slug": "lifestyle-magazine",
+      "cats": [
+        "meta-homes",
+        "meta-lifestyle",
+        "meta-wootech",
+        "meta-bloggers",
+        "meta-hotel",
+        "meta-news-magazine",
+        "meta-photography-blog",
+        "meta-new-in-version-4"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-lifestyle-magazine.jpg",
+      "img2x": "2x/meta-home-lifestyle-magazine.jpg",
+      "keywords": "lifestyle magazine"
+    },
+    {
+      "id": 30,
+      "title": "Portfolio Dark",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/portfolio-dark\/",
+      "slug": "splash-portfolio-dark",
+      "cats": [
+        "meta-homes",
+        "meta-photography",
+        "meta-portfolio",
+        "meta-photography-blog",
+        "meta-fashion"
+      ],
+      "img1x": "1x/meta-home-portfolio-dark.jpg",
+      "img2x": "2x/meta-home-portfolio-dark.jpg",
+      "keywords": "portfolio dark photography creative modern"
+    },
+    {
+      "id": 49,
+      "title": "TheGem Hotel",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/resort-hotel\/",
+      "slug": "thegem-hotel",
+      "cats": [
+        "meta-other",
+        "meta-onepager",
+        "meta-hotel",
+        "meta-travel"
+      ],
+      "tag": "hot",
+      "img1x": "1x/meta-home-thegem-hotel.jpg",
+      "img2x": "2x/meta-home-thegem-hotel.jpg",
+      "keywords": "hotel resort luxury booking"
+    },
+    {
+      "id": 32,
+      "title": "Fashion Photography",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/fashion-photography\/",
+      "slug": "fashion-photography",
+      "cats": [
+        "meta-homes",
+        "meta-photography",
+        "meta-portfolio",
+        "meta-fashion",
+        "meta-glamour-fashion",
+        "meta-photography-blog"
+      ],
+      "img1x": "1x/meta-home-fashion-photography.jpg",
+      "img2x": "2x/meta-home-fashion-photography.jpg",
+      "keywords": "photography portfolio studio photographer"
+    },
+    {
+      "id": 33,
+      "title": "Lawyers & Attorneys 02",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/law-company\/",
+      "slug": "lawyers-attorneys-2",
+      "cats": [
+        "meta-business",
+        "meta-homes",
+        "meta-lawyer",
+        "meta-other"
+      ],
+      "img1x": "1x/meta-home-lawyers-attorneys-02.jpg",
+      "img2x": "2x/meta-home-lawyers-attorneys-02.jpg",
+      "keywords": "law lawyers attorneys company legal business"
+    },
+    {
+      "id": 57,
+      "title": "Grid-Based Shop",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/shop-grid-based\/",
+      "slug": "grid-based-shop",
+      "cats": [
+        "meta-homes",
+        "meta-shop",
+        "meta-landing",
+        "meta-new-in-version-3",
+        "meta-new-in-version-4",
+        "meta-update"
+      ],
+      "img1x": "1x/meta-home-grid-based-shop-new.jpg",
+      "img2x": "2x/meta-home-grid-based-shop-new.jpg",
+      "tag": "hot",
+      "keywords": "grid-based shop online store woocommerce ecommerce"
+    },
+    {
+      "id": 163,
+      "title": "Book Shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-book/",
+      "slug": "shop-book",
+      "cats": [
+        "meta-book",
+        "meta-shop",
+        "meta-store",
+        "meta-product",
+        "meta-ecommerce",
+        "meta-woocommerce"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-shop-book-1x.jpg",
+      "img2x": "2x/meta-home-shop-book-2x.jpg",
+      "keywords": "book shop store product ecommerce woocommerce"
+    },
+    {
+      "id": 55,
+      "title": "TheGem Logistics",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/logistics\/",
+      "slug": "thegem-logistics",
+      "cats": [
+        "meta-business",
+        "meta-homes",
+        "meta-logistic",
+        "meta-new-in-version-3"
+      ],
+      "img1x": "1x/meta-home-thegem-logistics.jpg",
+      "img2x": "2x/meta-home-thegem-logistics.jpg",
+      "keywords": "logistics transportation shipping transport cargo freight"
+    },
+    {
+      "id": 50,
+      "title": "Luxury Hotel & Spa",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/luxury-hotel\/",
+      "slug": "luxury-hotel-spa",
+      "cats": [
+        "meta-other",
+        "meta-hotel",
+        "meta-travel"
+      ],
+      "img1x": "1x/meta-home-luxury-hotel-spa.jpg",
+      "img2x": "2x/meta-home-luxury-hotel-spa.jpg",
+      "keywords": "hotel resort spa luxury booking"
+    },
+    {
+      "id": 20,
+      "title": "Fashion Store 02",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/shop-trendy\/",
+      "slug": "shop-04",
+      "cats": [
+        "meta-fashion",
+        "meta-homes",
+        "meta-shop",
+        "meta-glamour-fashion",
+        "meta-update"
+      ],
+      "img1x": "1x/meta-home-trendy-shop-new.jpg",
+      "img2x": "2x/meta-home-trendy-shop-new.jpg",
+      "keywords": "trendy shop online store woocommerce ecommerce"
+    },
+    {
+      "id": 39,
+      "title": "Lookbook Landing & Shop",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/shop-lookbook-landing\/",
+      "slug": "lookbook-landing",
+      "cats": [
+        "meta-fashion",
+        "meta-homes",
+        "meta-landing",
+        "meta-shop",
+        "meta-glamour-fashion"
+      ],
+      "img1x": "1x/meta-home-lookbook-landing.jpg",
+      "img2x": "2x/meta-home-lookbook-landing.jpg",
+      "keywords": "lookbook landing shop fashion online store woocommerce ecommerce"
+    },
+    {
+      "id": 65,
+      "title": "Devices Shop",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/shop-metro\/",
+      "slug": "metro-style-shop",
+      "cats": [
+        "meta-shop",
+        "meta-homes",
+        "meta-wootech",
+        "meta-new-in-version-3",
+        "meta-update"
+      ],
+      "img1x": "1x/new-device-shop.jpg",
+      "img2x": "2x/new-device-shop.jpg",
+      "keywords": "metro-style shop online store woocommerce ecommerce"
+    },
+    {
+      "id": 51,
+      "title": "Health & Medical",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/medical-center\/",
+      "slug": "health-medical",
+      "cats": [
+        "meta-other",
+        "meta-medical"
+      ],
+      "img1x": "1x/meta-home-health-medical.jpg",
+      "img2x": "2x/meta-home-health-medical.jpg",
+      "keywords": "health clinic medical"
+    },
+    {
+      "id": 73,
+      "title": "TheGem ICO Landing",
+      "url": "https:\/\/codex-themes.com\/thegem\/ico\/",
+      "slug": "ico",
+      "cats": [
+        "meta-homes",
+        "meta-business",
+        "meta-landing",
+        "meta-app",
+        "meta-ico",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-ico.jpg",
+      "img2x": "2x/meta-home-ico.jpg",
+      "keywords": "ico landing cryptocurrencies"
+    },
+    {
+      "id": 43,
+      "title": "Restaurant & Cafe",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/gem-restaurant\/homepage\/homepage-02\/",
+      "slug": "restaurant-02",
+      "cats": [
+        "meta-homes",
+        "meta-other",
+        "meta-restaurant"
+      ],
+      "img1x": "1x/meta-home-restaurant-delicious.jpg",
+      "img2x": "2x/meta-home-restaurant-delicious.jpg",
+      "keywords": "restaurant cafe ristorante food"
+    },
+    {
+      "id": 97,
+      "title": "Product Fullscreen Landing",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/product-landing\/",
+      "slug": "fullscreen-product-landing",
+      "cats": [
+        "meta-landing",
+        "meta-onepager",
+        "meta-new-in-version-4",
+        "meta-fullscreen"
+      ],
+      "img1x": "1x/meta-home-fullscreen-product-landing.jpg",
+      "img2x": "2x/meta-home-fullscreen-product-landing.jpg",
+      "keywords": "product fullscreen landing"
+    },
+    {
+      "id": 82,
+      "title": "Travel Blog 01",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/travel-blog\/",
+      "slug": "travel-blog",
+      "cats": [
+        "meta-homes",
+        "meta-lifestyle",
+        "meta-bloggers",
+        "meta-news-magazine",
+        "meta-travel",
+        "meta-hotel",
+        "meta-photography-blog",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-travel-blog.jpg",
+      "img2x": "2x/meta-home-travel-blog.jpg",
+      "keywords": "travel blog magazine grid advanced online blogger"
+    },
+    {
+      "id": 58,
+      "title": "Creative Shop",
+      "url": "https:\/\/codex-themes.com\/thegem\/creative-shop\/",
+      "slug": "creative-shop",
+      "cats": [
+        "meta-creative",
+        "meta-homes",
+        "meta-shop",
+        "meta-wootech",
+        "meta-new-in-version-3"
+      ],
+      "img1x": "1x/meta-home-creative-shop.jpg",
+      "img2x": "2x/meta-home-creative-shop.jpg",
+      "keywords": "creative shop online store woocommerce ecommerce"
+    },
+    {
+      "id": 6,
+      "title": "Creative Landing",
+      "url": "https:\/\/codex-themes.com\/thegem\/product-landing\/",
+      "slug": "product-landing",
+      "cats": [
+        "meta-creative",
+        "meta-homes",
+        "meta-wootech",
+        "meta-landing",
+        "meta-onepager"
+      ],
+      "img1x": "1x/meta-home-creative-landing.jpg",
+      "img2x": "2x/meta-home-creative-landing.jpg",
+      "keywords": "landing creative onepager one page"
+    },
+    {
+      "id": 5,
+      "title": "Creative Bright",
+      "url": "https:\/\/codex-themes.com\/thegem\/home\/splash-creative-light-01\/",
+      "slug": "splash-creative-light-01",
+      "cats": [
+        "meta-creative",
+        "meta-homes"
+      ],
+      "img1x": "1x/meta-home-creative-bright.jpg",
+      "img2x": "2x/meta-home-creative-bright.jpg",
+      "keywords": "creative bright agency"
+    },
+    {
+      "id": 36,
+      "title": "Beauty Salon & Spa",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/beauty-salon\/home\/home-02\/",
+      "slug": "beauty-salon-01",
+      "cats": [
+        "meta-beauty",
+        "meta-homes",
+        "meta-other",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency",
+        "meta-fashion",
+        "meta-glamour-fashion"
+      ],
+      "img1x": "1x/meta-home-beauty-salon-spa.jpg",
+      "img2x": "2x/meta-home-beauty-salon-spa.jpg",
+      "keywords": "beauty salon spa hair hairdressing"
+    },
+    {
+      "id": 162,
+      "title": "Natural Cosmetics Shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-natural-cosmetics/",
+      "slug": "shop-natural-cosmetics",
+      "cats": [
+        "meta-shop",
+        "meta-cosmetics",
+        "meta-natural",
+        "meta-beauty",
+        "meta-cream",
+        "meta-body",
+        "meta-shampoo",
+        "meta-shop",
+        "meta-store",
+        "meta-product",
+        "meta-ecommerce",
+        "meta-woocommerce"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-shop-natural-cosmetics-1x.jpg",
+      "img2x": "2x/meta-shop-natural-cosmetics-2x.jpg",
+      "keywords": "cosmetics organic beauty cream body shampoo shop store product ecommerce woocommerce"
+    },
+    {
+      "id": 75,
+      "title": "Handyman Services",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/craftsman-service\/",
+      "slug": "handyman-services",
+      "cats": [
+        "meta-homes",
+        "meta-handyman",
+        "meta-handymen",
+        "meta-construction"
+      ],
+      "img1x": "1x/meta-home-handyman-services.jpg",
+      "img2x": "2x/meta-home-handyman-services.jpg",
+      "keywords": "craftsman handyman service"
+    },
+    {
+      "id": 175,
+      "title": "Fashion Shop Minimal",
+      "url": "https://codex-themes.com/thegem/sites/shop-fashion-minimal/",
+      "slug": "shop-fashion-minimal",
+      "cats": [
+        "meta-fashion",
+        "meta-homes",
+        "meta-shop"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-shop-fashion-minimal.jpg",
+      "img2x": "2x/meta-home-shop-fashion-minimal-2x.jpg",
+      "keywords": "lookbook landing shop fashion minimal home online store woocommerce ecommerce"
+    },
+    {
+      "id": 31,
+      "title": "Banking & Finance",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/banking-finance\/",
+      "slug": "business-05",
+      "cats": [
+        "meta-business",
+        "meta-homes",
+        "meta-business2",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "img1x": "1x/meta-home-banking-finance.jpg",
+      "img2x": "2x/meta-home-banking-finance.jpg",
+      "keywords": "banking finance business consulting corporate company"
+    },
+    {
+      "id": 21,
+      "title": "Portfolio Bright",
+      "url": "https:\/\/codex-themes.com\/thegem\/splash-portfolio-light\/",
+      "slug": "splash-portfolio-light",
+      "cats": [
+        "meta-homes",
+        "meta-portfolio"
+      ],
+      "img1x": "1x/meta-home-portfolio-bright.jpg",
+      "img2x": "2x/meta-home-portfolio-bright.jpg",
+      "keywords": "portfolio bright photography"
+    },
+    {
+      "id": 83,
+      "title": "Hairdressing Salon 01",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/hair-dress\/",
+      "slug": "hair-dress",
+      "cats": [
+        "meta-homes",
+        "meta-beauty",
+        "meta-fashion",
+        "meta-glamour-fashion",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-hairdressing-salon-01.jpg",
+      "img2x": "2x/meta-home-hairdressing-salon-01.jpg",
+      "keywords": "hair hairdressing makeup beauty salon spa"
+    },
+    {
+      "id": 59,
+      "title": "Modern Church One-Page",
+      "url": "https:\/\/codex-themes.com\/thegem\/thegem-church-onepage\/",
+      "slug": "modern-church-one-page",
+      "cats": [
+        "meta-onepager",
+        "meta-homes",
+        "meta-church",
+        "meta-new-in-version-3"
+      ],
+      "img1x": "1x/meta-home-modern-church-one-page.jpg",
+      "img2x": "2x/meta-home-modern-church-one-page.jpg",
+      "keywords": "church modern onepager charity"
+    },
+    {
+      "id": 93,
+      "title": "Fashion Magazine",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/fashion-magazine\/",
+      "slug": "fashion-magazine",
+      "cats": [
+        "meta-homes",
+        "meta-lifestyle",
+        "meta-bloggers",
+        "meta-news-magazine",
+        "meta-photography",
+        "meta-photography-blog",
+        "meta-glamour-fashion",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-fashion-magazine.jpg",
+      "img2x": "2x/meta-home-fashion-magazine.jpg",
+      "keywords": "fashion magazine"
+    },
+    {
+      "id": 15,
+      "title": "Portfolio Minimalistic",
+      "url": "https:\/\/codex-themes.com\/thegem\/portfolio-minimalistic\/",
+      "slug": "portfolio-minimalistic",
+      "cats": [
+        "meta-homes",
+        "meta-portfolio"
+      ],
+      "img1x": "1x/meta-home-portfolio-minimalistic.jpg",
+      "img2x": "2x/meta-home-portfolio-minimalistic.jpg",
+      "keywords": "portfolio minimalistic photography"
+    },
+    {
+      "id": 35,
+      "title": "Gym & Fitness 02",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/gym-fitness\/",
+      "slug": "fitness-2",
+      "cats": [
+        "meta-gym",
+        "meta-homes",
+        "meta-other"
+      ],
+      "img1x": "1x/meta-home-gym-fitness-02.jpg",
+      "img2x": "2x/meta-home-gym-fitness-02.jpg",
+      "keywords": "gym fitness workout yoga training sport"
+    },
+    {
+      "id": 111,
+      "title": "Technology Blog",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/technology-blog\/",
+      "slug": "technology-blog",
+      "cats": [
+        "meta-homes",
+        "meta-news-magazine",
+        "meta-bloggers"
+      ],
+      "img1x": "1x/meta-home-technology-blog.jpg",
+      "img2x": "2x/meta-home-technology-blog.jpg",
+      "keywords": "technology blog"
+    },
+    {
+      "id": 84,
+      "title": "TheGem Spa Hotel",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/luxury-hotel\/homepage\/homepage-02\/",
+      "slug": "luxury-hotel",
+      "cats": [
+        "meta-homes",
+        "meta-hotel",
+        "meta-travel",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-thegem-spa-hotel.jpg",
+      "img2x": "2x/meta-home-thegem-spa-hotel.jpg",
+      "keywords": "hotel resort spa luxury booking"
+    },
+    {
+      "id": 109,
+      "title": "Travel Blog 02",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/trip-blog\/",
+      "slug": "trip-blog",
+      "cats": [
+        "meta-homes",
+        "meta-news-magazine",
+        "meta-bloggers"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-trip-blog.jpg",
+      "img2x": "2x/meta-home-trip-blog.jpg",
+      "keywords": "travel blog"
+    },
+    {
+      "id": 12,
+      "title": "Business Multipurpose",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/business-multipurpose\/",
+      "slug": "business-01",
+      "cats": [
+        "meta-business",
+        "meta-homes",
+        "meta-business2",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "img1x": "1x/meta-home-business-consulting.jpg",
+      "img2x": "2x/meta-home-business-consulting.jpg",
+      "keywords": "business multipurpose consulting corporate company"
+    },
+    {
+      "id": 37,
+      "title": "Vertical Slider Lookbook",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/lookbook-vertical-slider\/",
+      "slug": "vertical-slider-lookbook",
+      "cats": [
+        "meta-fashion",
+        "meta-fullscreen",
+        "meta-homes",
+        "meta-landing",
+        "meta-onepager",
+        "meta-shop",
+        "meta-glamour-fashion"
+      ],
+      "img1x": "1x/meta-home-vertical-slider-lookbook.jpg",
+      "img2x": "2x/meta-home-vertical-slider-lookbook.jpg",
+      "keywords": "lookbook shop fashion store fullscreen vertical"
+    },
+    {
+      "id": 53,
+      "title": "Music Event Fullscreen",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/music-festival\/",
+      "slug": "music-event-fullscreen",
+      "cats": [
+        "meta-creative",
+        "meta-landing",
+        "meta-homes",
+        "meta-onepager",
+        "meta-event",
+        "meta-events",
+        "meta-new-in-version-3",
+        "meta-fullscreen"
+      ],
+      "img1x": "1x/meta-home-music-event-fullscreen.jpg",
+      "img2x": "2x/meta-home-music-event-fullscreen.jpg",
+      "keywords": "music event fullscreen vertical slider"
+    },
+    {
+      "id": 44,
+      "title": "Horizontal Slider Lookbook",
+      "url": "https:\/\/codex-themes.com\/thegem\/home\/lookbook-slider\/",
+      "slug": "horizontal-slider-lookbook",
+      "cats": [
+        "meta-fashion",
+        "meta-fullscreen",
+        "meta-homes",
+        "meta-landing",
+        "meta-shop",
+        "meta-glamour-fashion"
+      ],
+      "img1x": "1x/meta-home-horizontal-slider-lookbook.jpg",
+      "img2x": "2x/meta-home-horizontal-slider-lookbook.jpg",
+      "keywords": "lookbook slider shop fashion"
+    },
+    {
+      "id": 85,
+      "title": "Beauty Salon 02",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/beauty-salon\/",
+      "slug": "beauty-salon",
+      "cats": [
+        "meta-homes",
+        "meta-beauty",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-beauty-salon-02.jpg",
+      "img2x": "2x/meta-home-beauty-salon-02.jpg",
+      "keywords": "beauty salon spa hair hairdressing"
+    },
+    {
+      "id": 66,
+      "title": "Shop & Landing",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/shop-landing\/",
+      "slug": "shop-landing",
+      "cats": [
+        "meta-shop",
+        "meta-homes",
+        "meta-wootech",
+        "meta-landing",
+        "meta-glamour-fashion",
+        "meta-new-in-version-3",
+        "meta-update"
+      ],
+      "tag": "hot",
+      "img1x": "1x/meta-home-shop-landing.jpg",
+      "img2x": "2x/meta-home-shop-landing.jpg",
+      "keywords": "shop landing fashion store online woocommerce ecommerce"
+    },
+    {
+      "id": 164,
+      "title": "Bakery Shop",
+      "url": "https://codex-themes.com/thegem/sites/shop-bakery/",
+      "slug": "shop-bakery",
+      "cats": [
+        "meta-shop",
+        "meta-store",
+        "meta-bakery",
+        "meta-product",
+        "meta-ecommerce",
+        "meta-woocommerce"
+      ],
+      "img1x": "1x/shop-bakery-x1.jpg",
+      "img2x": "2x/shop-bakery-x2.jpg",
+      "keywords": "shop bakery landing fashion store online woocommerce ecommerce"
+    },
+    {
+      "id": 16,
+      "title": "Real Estate",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/real-estate\/",
+      "slug": "real-estate",
+      "cats": [
+        "meta-interior",
+        "meta-agency",
+        "meta-business",
+        "meta-homes",
+        "meta-other",
+        "meta-construction-real-estate",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "tag": "hot",
+      "img1x": "1x/meta-home-real-estate.jpg",
+      "img2x": "2x/meta-home-real-estate.jpg",
+      "keywords": "real estate architecture interior design"
+    },
+    {
+      "id": 67,
+      "title": "Elegant Blog",
+      "url": "https:\/\/codex-themes.com\/thegem\/bloggers\/bloggers-03\/",
+      "slug": "elegant-blog",
+      "cats": [
+        "meta-bloggers",
+        "meta-homes",
+        "meta-lifestyle",
+        "meta-news-magazine",
+        "meta-travel",
+        "meta-photography-blog",
+        "meta-glamour-fashion",
+        "meta-new-in-version-3"
+      ],
+      "img1x": "1x/meta-home-elegant-blog.jpg",
+      "img2x": "2x/meta-home-elegant-blog.jpg",
+      "keywords": "blog elegant magazine blogger"
+    },
+    {
+      "id": 13,
+      "title": "App Landing",
+      "url": "https:\/\/codex-themes.com\/thegem\/thegem-app\/",
+      "slug": "thegem-app",
+      "cats": [
+        "meta-app",
+        "meta-homes",
+        "meta-landing",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "img1x": "1x/meta-home-app-landing.jpg",
+      "img2x": "2x/meta-home-app-landing.jpg",
+      "keywords": "app landing"
+    },
+    {
+      "id": 69,
+      "title": "Justified Shop",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/shop-justified\/",
+      "slug": "justified-shop",
+      "cats": [
+        "meta-shop",
+        "meta-homes",
+        "meta-wootech",
+        "meta-new-in-version-3",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-justified-shop-new.jpg",
+      "img2x": "2x/meta-home-justified-shop-new.jpg",
+      "keywords": "justified shop online store woocommerce ecommerce"
+    },
+    {
+      "id": 68,
+      "title": "Grid-Based Blog",
+      "url": "https:\/\/codex-themes.com\/thegem\/bloggers\/bloggers-02\/",
+      "slug": "grid-based-blog",
+      "cats": [
+        "meta-interior",
+        "meta-bloggers",
+        "meta-homes",
+        "meta-news-magazine",
+        "meta-new-in-version-3",
+        "meta-updated"
+      ],
+      "img1x": "1x/meta-home-grid-based-blog.jpg",
+      "img2x": "2x/meta-home-grid-based-blog.jpg",
+      "keywords": "blog grid-based magazine blogger"
+    },
+    {
+      "id": 86,
+      "title": "Gym & Fitness 03",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/gym-fitness\/homepage\/homepage-02\/",
+      "slug": "gym-fitness",
+      "cats": [
+        "meta-homes",
+        "meta-gym",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-gym-fitness-03.jpg",
+      "img2x": "2x/meta-home-gym-fitness-03.jpg",
+      "keywords": "gym fitness workout yoga training sport"
+    },
+    {
+      "id": 87,
+      "title": "Construction Company",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/construction\/",
+      "slug": "construction",
+      "cats": [
+        "meta-interior",
+        "meta-homes",
+        "meta-handymen",
+        "meta-construction-real-estate",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-construction-company.jpg",
+      "img2x": "2x/meta-home-construction-company.jpg",
+      "keywords": "construction building company business"
+    },
+    {
+      "id": 42,
+      "title": "Media Agency",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/agency-media\/",
+      "slug": "agency-mountains",
+      "cats": [
+        "meta-agency",
+        "meta-homes"
+      ],
+      "img1x": "1x/meta-home-media-agency.jpg",
+      "img2x": "2x/meta-home-media-agency.jpg",
+      "keywords": "media agency digital company webdesign"
+    },
+    {
+      "id": 88,
+      "title": "Hairdressing Salon 02",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/hair-dress\/homepage\/homepage-02\/",
+      "slug": "hair-dress-homepage-02",
+      "cats": [
+        "meta-homes",
+        "meta-beauty",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-hairdressing-salon-02.jpg",
+      "img2x": "2x/meta-home-hairdressing-salon-02.jpg",
+      "keywords": "hair hairdressing makeup beauty salon spa"
+    },
+    {
+      "id": 38,
+      "title": "Agency Light",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/agency-light\/",
+      "slug": "agency-light",
+      "cats": [
+        "meta-agency",
+        "meta-homes"
+      ],
+      "img1x": "1x/meta-home-agency-light.jpg",
+      "img2x": "2x/meta-home-agency-light.jpg",
+      "keywords": "agency light company"
+    },
+    {
+      "id": 64,
+      "title": "Creative Blog",
+      "url": "https:\/\/codex-themes.com\/thegem\/bloggers\/bloggers-04\/",
+      "slug": "creative-blog",
+      "cats": [
+        "meta-creative",
+        "meta-homes",
+        "meta-lifestyle",
+        "meta-bloggers",
+        "meta-news-magazine",
+        "meta-photography",
+        "meta-photography-blog",
+        "meta-new-in-version-3"
+      ],
+      "img1x": "1x/meta-home-creative-blog.jpg",
+      "img2x": "2x/meta-home-creative-blog.jpg",
+      "keywords": "blog creative magazine blogger"
+    },
+    {
+      "id": 63,
+      "title": "TheGem Church",
+      "url": "https:\/\/codex-themes.com\/thegem\/church\/",
+      "slug": "thegem-church",
+      "cats": [
+        "meta-church",
+        "meta-homes",
+        "meta-new-in-version-3"
+      ],
+      "img1x": "1x/meta-home-thegem-church.jpg",
+      "img2x": "2x/meta-home-thegem-church.jpg",
+      "keywords": "church non-profit charity"
+    },
+    {
+      "id": 29,
+      "title": "Shop & Lookbook",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/shop-lookbook\/",
+      "slug": "shop-02",
+      "cats": [
+        "meta-fashion",
+        "meta-homes",
+        "meta-shop"
+      ],
+      "img1x": "1x/meta-home-shop-lookbook.jpg",
+      "img2x": "2x/meta-home-shop-lookbook.jpg",
+      "keywords": "lookbook landing shop fashion online store woocommerce ecommerce"
+    },
+    {
+      "id": 47,
+      "title": "Business Consulting",
+      "url": "https://codex-themes.com/thegem/sites/business-consulting/",
+      "slug": "business-03",
+      "cats": [
+        "meta-business",
+        "meta-homes",
+        "meta-business2"
+      ],
+      "img1x": "1x/meta-home-business-multipurpose.jpg",
+      "img2x": "2x/meta-home-business-multipurpose.jpg",
+      "keywords": "business consulting corporate company"
+    },
+    {
+      "id": 89,
+      "title": "TheGem Restaurant",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/gem-restaurant\/",
+      "slug": "gem-restaurant",
+      "cats": [
+        "meta-homes",
+        "meta-restaurant",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-thegem-restaurant.jpg",
+      "img2x": "2x/meta-home-thegem-restaurant.jpg",
+      "keywords": "restaurant cafe ristorante food"
+    },
+    {
+      "id": 98,
+      "title": "App Fullscreen Landing",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/app-landing\/",
+      "slug": "app-fullscreen-landing",
+      "cats": [
+        "meta-landing",
+        "meta-onepager",
+        "meta-new-in-version-4",
+        "meta-fullscreen"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-app-fullscreen-landing.jpg",
+      "img2x": "2x/meta-home-app-fullscreen-landing.jpg",
+      "keywords": "app fullscreen landing"
+    },
+    {
+      "id": 76,
+      "title": "Handyman & Craftsmen",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/handyman-service\/",
+      "slug": "handyman-craftsmen",
+      "cats": [
+        "meta-homes",
+        "meta-handyman",
+        "meta-handymen",
+        "meta-construction"
+      ],
+      "img1x": "1x/meta-home-handyman-craftsmen.jpg",
+      "img2x": "2x/meta-home-handyman-craftsmen.jpg",
+      "keywords": "craftsman handyman service"
+    },
+    {
+      "id": 61,
+      "title": "Masonry Style Shop",
+      "url": "https:\/\/codex-themes.com\/thegem\/masonry-shop\/",
+      "slug": "masonry-style-shop",
+      "cats": [
+        "meta-interior",
+        "meta-shop",
+        "meta-homes",
+        "meta-wootech",
+        "meta-new-in-version-3"
+      ],
+      "img1x": "1x/meta-home-masonry-style-shop-new.jpg",
+      "img2x": "2x/meta-home-masonry-style-shop-new.jpg",
+      "keywords": "masonry shop online store woocommerce ecommerce"
+    },
+    {
+      "id": 62,
+      "title": "Modern Blog",
+      "url": "https:\/\/codex-themes.com\/thegem\/bloggers\/bloggers-01\/",
+      "slug": "modern-blog",
+      "cats": [
+        "meta-bloggers",
+        "meta-homes",
+        "meta-lifestyle",
+        "meta-news-magazine",
+        "meta-travel",
+        "meta-photography-blog",
+        "meta-new-in-version-3"
+      ],
+      "img1x": "1x/meta-home-modern-blog.jpg",
+      "img2x": "2x/meta-home-modern-blog.jpg",
+      "keywords": "blog modern magazine blogger"
+    },
+    {
+      "id": 78,
+      "title": "TheGem Charity, Non-Profit",
+      "url": "https:\/\/codex-themes.com\/thegem\/thegem-charity-non-profit\/",
+      "slug": "thegem-charity-non-profit",
+      "cats": [
+        "meta-homes",
+        "meta-church"
+      ],
+      "img1x": "1x/meta-home-thegem-charity-non-profit.jpg",
+      "img2x": "2x/meta-home-thegem-charity-non-profit.jpg",
+      "keywords": "charity non-profit church"
+    },
+    {
+      "id": 10,
+      "title": "Fashion Store 03",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/shop-fashion\/",
+      "slug": "shop-01",
+      "cats": [
+        "meta-fashion",
+        "meta-homes",
+        "meta-shop",
+        "meta-glamour-fashion"
+      ],
+      "img1x": "1x/meta-home-fashion-store.jpg",
+      "img2x": "2x/meta-home-fashion-store.jpg",
+      "keywords": "fashion store online shop woocommerce ecommerce"
+    },
+    {
+      "id": 90,
+      "title": "Lawyers & Attorneys 03",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/law-company\/homepage\/homepage-02\/",
+      "slug": "law-company",
+      "cats": [
+        "meta-homes",
+        "meta-lawyer",
+        "meta-new-in-version-4"
+      ],
+      "img1x": "1x/meta-home-lawyers-attorneys-03.jpg",
+      "img2x": "2x/meta-home-lawyers-attorneys-03.jpg",
+      "keywords": "law lawyers attorneys company legal business"
+    },
+    {
+      "id": 27,
+      "title": "Business Light",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/business-light\/",
+      "slug": "business-04",
+      "cats": [
+        "meta-business",
+        "meta-homes",
+        "meta-business2"
+      ],
+      "img1x": "1x/meta-home-business-light.jpg",
+      "img2x": "2x/meta-home-business-light.jpg",
+      "keywords": "business light consulting corporate company"
+    },
+    {
+      "id": 25,
+      "title": "Gym & Fitness 01",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/thegym\/",
+      "slug": "fitness",
+      "cats": [
+        "meta-gym",
+        "meta-homes",
+        "meta-other",
+        "meta-smallbusiness-startups",
+        "meta-ico-cryptocurrency"
+      ],
+      "tag": "hot",
+      "img1x": "1x/meta-home-gym-fitness-01.jpg",
+      "img2x": "2x/meta-home-gym-fitness-01.jpg",
+      "keywords": "gym fitness workout yoga training sport"
+    },
+    {
+      "id": 46,
+      "title": "Classic Landing",
+      "url": "https:\/\/codex-themes.com\/thegem\/home\/landing-page-3\/",
+      "slug": "landing-page-3",
+      "cats": [
+        "meta-homes",
+        "meta-landing"
+      ],
+      "img1x": "1x/meta-home-classic-landing.jpg",
+      "img2x": "2x/meta-home-classic-landing.jpg",
+      "keywords": "landing classic"
+    },
+    {
+      "id": 77,
+      "title": "Handyman & Electrician Services",
+      "url": "https:\/\/codex-themes.com\/thegem\/handyman-one-pager\/",
+      "slug": "handyman-electrician",
+      "cats": [
+        "meta-homes",
+        "meta-handyman",
+        "meta-handymen",
+        "meta-construction"
+      ],
+      "img1x": "1x/meta-home-handyman-electrician.jpg",
+      "img2x": "2x/meta-home-handyman-electrician.jpg",
+      "keywords": "handyman electrician service craftsman onepager one pager"
+    },
+    {
+      "id": 54,
+      "title": "Home & Body Shop",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/shop-nature\/",
+      "slug": "home-body-shop",
+      "cats": [
+        "meta-shop",
+        "meta-homes",
+        "meta-new-in-version-3"
+      ],
+      "img1x": "1x/meta-home-home-body-shop-new.jpg",
+      "img2x": "2x/meta-home-home-body-shop-new.jpg",
+      "keywords": "home body shop online store woocommerce ecommerce"
+    },
+    {
+      "id": 45,
+      "title": "Agency Dark",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/agency-dark\/",
+      "slug": "agency-dark",
+      "cats": [
+        "meta-agency",
+        "meta-homes"
+      ],
+      "img1x": "1x/meta-home-agency-dark.jpg",
+      "img2x": "2x/meta-home-agency-dark.jpg",
+      "keywords": "agency dark digital company webdesign"
+    },
+    {
+      "id": 60,
+      "title": "Transport & Logistic",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/logistic-transport\/",
+      "slug": "transport-logistic",
+      "cats": [
+        "meta-business",
+        "meta-homes",
+        "meta-logistic",
+        "meta-new-in-version-3"
+      ],
+      "img1x": "1x/meta-home-transport-logistic.jpg",
+      "img2x": "2x/meta-home-transport-logistic.jpg",
+      "keywords": "logistics transportation shipping transport cargo freight"
+    },
+    {
+      "id": 41,
+      "title": "Creative Light",
+      "url": "https:\/\/codex-themes.com\/thegem\/home\/splash-creative-light-02\/",
+      "slug": "splash-creative-light-02",
+      "cats": [
+        "meta-creative",
+        "meta-homes"
+      ],
+      "img1x": "1x/meta-home-creative-light.jpg",
+      "img2x": "2x/meta-home-creative-light.jpg",
+      "keywords": "creative light agency"
+    },
+    {
+      "id": 52,
+      "title": "Medical Clinic",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/clinic\/",
+      "slug": "medical-clinic",
+      "cats": [
+        "meta-other",
+        "meta-medical"
+      ],
+      "img1x": "1x/meta-home-medical-clinic.jpg",
+      "img2x": "2x/meta-home-medical-clinic.jpg",
+      "keywords": "health clinic medical"
+    },
+    {
+      "id": 79,
+      "title": "Charity, Non-Profit (One Pager)",
+      "url": "https:\/\/codex-themes.com\/thegem\/charity-one-pager\/",
+      "slug": "thegem-charity-non-profit-one-pager",
+      "cats": [
+        "meta-homes",
+        "meta-church",
+        "meta-onepager",
+        "meta-landing"
+      ],
+      "img1x": "1x/meta-home-thegem-charity-non-profit-one-pager.jpg",
+      "img2x": "2x/meta-home-thegem-charity-non-profit-one-pager.jpg",
+      "keywords": "charity non-profit onepager one pager"
+    },
+    {
+      "id": 110,
+      "title": "Travel Blog 03",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/trip-blog-light\/",
+      "slug": "trip-blog-light",
+      "cats": [
+        "meta-homes",
+        "meta-news-magazine",
+        "meta-bloggers"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-trip-blog-light.jpg",
+      "img2x": "2x/meta-home-trip-blog-light.jpg",
+      "keywords": "travel blog light"
+    },
+    {
+      "id": 106,
+      "title": "Business Services 02",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/business-services-02\/",
+      "slug": "business-services-02",
+      "cats": [
+        "meta-business",
+        "meta-homes"
+      ],
+      "img1x": "1x/meta-home-business-services-02.jpg",
+      "img2x": "2x/meta-home-business-services-02.jpg",
+      "keywords": "business services"
+    },
+    {
+      "id": 114,
+      "title": "TheGem Interactions",
+      "url": "https:\/\/codex-themes.com\/thegem\/interactions-landing\/",
+      "slug": "interactions-landing",
+      "cats": [
+        "meta-landing",
+        "meta-homes"
+      ],
+      "tag": "new",
+      "img1x": "1x/meta-home-landing-interactions.jpg",
+      "img2x": "2x/meta-home-landing-interactions.jpg",
+      "keywords": "landing interactions"
+    },
+    {
+      "id": 34,
+      "title": "Business & corporate",
+      "url": "https:\/\/codex-themes.com\/thegem\/sites\/business-corporate\/",
+      "slug": "business-1-2",
+      "cats": [
+        "meta-business",
+        "meta-homes",
+        "meta-business2"
+      ],
+      "img1x": "1x/meta-home-business-corporate.jpg",
+      "img2x": "2x/meta-home-business-corporate.jpg",
+      "keywords": "business consulting corporate company"
+    }
+  ]
+}

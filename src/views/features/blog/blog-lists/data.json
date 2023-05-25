@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "title": "List Style 1x",
+      "image": "modern-06.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/interior-design/"
+    },
+    {
+      "title": "List Style 2x",
+      "image": "modern-09.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/lifestyles/"
+    },
+    {
+      "title": "Classic List",
+      "image": "11-Blog-List.jpg",
+      "url": "https://codex-themes.com/thegem/blog/classic-list/blog-list-default-sidebar-right/"
+    },
+    {
+      "title": "Caption on Image",
+      "image": "modern-07.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/modern-interior/"
+    },
+    {
+      "title": "Minimalistic",
+      "image": "modern-10.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/opinions/"
+    },
+    {
+      "title": "Styled List",
+      "image": "Styled-Lists.jpg",
+      "url": "https://codex-themes.com/thegem/styled-lists/"
+    },
+    {
+      "title": "Creative Timeline",
+      "image": "Creative-Timeline-Light.jpg",
+      "url": "https://codex-themes.com/thegem/blog/timelines/blog-timeline-style-a/"
+    },
+    {
+      "title": "Timeline List",
+      "image": "10-Timeline-List.jpg",
+      "url": "https://codex-themes.com/thegem/blog/timelines/blog-timeline-style-b/"
+    },
+    {
+      "title": "Multi-Author Blog",
+      "image": "14-Multi-Author-Blog.jpg",
+      "url": "https://codex-themes.com/thegem/blog-list-multi-author/"
+    },
+    {
+      "title": "Slider & Carousel",
+      "image": "15-Compact-List-Blog.jpg",
+      "url": "https://codex-themes.com/thegem/blog/blog-list/"
+    }
+  ]
+}

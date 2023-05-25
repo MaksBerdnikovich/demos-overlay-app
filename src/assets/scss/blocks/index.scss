@@ -1,0 +1,15 @@
+// Import blocks style
+@import "header";
+@import "wrapper";
+@import "sidabar";
+@import "previews";
+@import "quickfinders";
+@import "animation";
+
+.observer{
+    position: absolute;
+    bottom: 600px;
+    left: 0;
+    width: 100%;
+    height: 20px;
+}

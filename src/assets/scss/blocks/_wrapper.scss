@@ -1,0 +1,128 @@
+.wrapper{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+
+    padding: 40px 40px 0 40px;
+
+    @include media-md{
+        padding: 20px 40px;
+    }
+
+    @include media-sm{
+        padding: 20px;
+    }
+
+    &.sticky .wrapper-nav{
+        position: fixed;
+        top: 0;
+        left: 0;
+        padding: 15px 0 20px 0;
+        background-color: rgba($main-bg, 0.95);
+        z-index: 100;
+        box-shadow: $shadow-bottom;
+
+        .wrapper-nav__switcher{
+            left: 40px;
+        }
+    }
+
+    &.sticky .sidebar{
+        position: fixed;
+        top: 60px;
+        left: 40px;
+
+        @include media-md{
+            position: relative;
+            top: inherit;
+            left: inherit;
+        }
+    }
+}
+
+.wrapper-nav{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    transition: $transition;
+
+    @include media-md{
+        display: none;
+    }
+
+    ul{
+        display: flex;
+        list-style-type: none;
+    }
+
+    li{
+        padding: 0 25px;
+    }
+}
+
+.wrapper-nav-item{
+    position: relative;
+    display: flex;
+    padding: 5px 10px;
+
+    font-size: 16px;
+    font-weight: 700;
+    color: $light;
+
+    @include slide-grow($light, 2px);
+}
+
+.wrapper-nav__switcher{
+    position: absolute;
+    left: 0;
+
+    .switch{
+        position: relative;
+        display: flex;
+        align-items: center;
+        padding: 0 5px;
+        user-select: none;
+        cursor: pointer;
+    }
+
+    .switch input[type="checkbox"] {
+        display: none;
+    }
+
+    .switch-text{
+        font-family: 'Source Sans Pro';
+        font-weight: 400;
+        font-size: 16px;
+        color: $hoar;
+    }
+
+    .switch-indicator{
+        display: block;
+        position: relative;
+        border-radius: 17px;
+        background-color: $anthracite;
+        width: 44px;
+        height: 24px;
+        cursor: inherit;
+        margin: 0 7px;
+    }
+
+    .switch input:checked + .switch-indicator:after {
+        transform: translateX(18px);
+    }
+    .switch-indicator:after {
+        content: '';
+        width: 18px;
+        height: 18px;
+        display: block;
+        border-radius: 50%;
+        background-color: #ffffff;
+        position: absolute;
+        top: 50%;
+        margin-top: -9px;
+        left: 4px;
+        transition: transform .4s;
+    }
+}

@@ -1,0 +1,69 @@
+{
+  "items": [
+    {
+      "title": "Blog Grids Overview",
+      "image": "Landing-Blog-Grids.jpg",
+      "url": "https://codex-themes.com/thegem/advanced-grids-overview/"
+    },
+    {
+      "title": "Justified Grid",
+      "image": "modern-08.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/cruise/"
+    },
+    {
+      "title": "Masonry Grid",
+      "image": "modern-04.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/entertainment/"
+    },
+    {
+      "title": "Creative Grid",
+      "image": "with-highlights-04.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/gadgets/"
+    },
+    {
+      "title": "Caption Below Image",
+      "image": "03-Extended-Justified-Grids-02.jpg",
+      "url": "https://codex-themes.com/thegem/grid-alternative/"
+    },
+    {
+      "title": "Caption On Image",
+      "image": "04-Extended-Masonry-Grids.jpg",
+      "url": "https://codex-themes.com/thegem/grid-alternative/on-hover/"
+    },
+    {
+      "title": "Minimalistic",
+      "image": "modern-11.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/innovation/"
+    },
+    {
+      "title": "Classic Justified",
+      "image": "06-Justified-Grids.jpg",
+      "url": "https://codex-themes.com/thegem/blog/justified-grids/post-grid-a/"
+    },
+    {
+      "title": "Classic Masonry",
+      "image": "Blog-Masonry-400x540.jpg",
+      "url": "https://codex-themes.com/thegem/blog/masonry-grids/blog-masonry-100/"
+    },
+    {
+      "title": "Creative Mix One",
+      "image": "extended-01.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/lifestyle/"
+    },
+    {
+      "title": "Creative Mix Two",
+      "image": "extended-02.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/interior/"
+    },
+    {
+      "title": "Creative Mix Three",
+      "image": "with-highlights-02.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/decoration/"
+    },
+    {
+      "title": "Creative Mix Four",
+      "image": "extended-09.jpg",
+      "url": "https://codex-themes.com/thegem/blocks/category/archives/device/"
+    }
+  ]
+}

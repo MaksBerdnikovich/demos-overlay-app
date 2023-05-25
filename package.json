@@ -1,0 +1,34 @@
+{
+  "name": "thegem_demos",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
+  },
+  "dependencies": {
+    "@renatodeleao/vue-sticky-directive": "^0.3.0",
+    "@yeger/vue-masonry-wall": "^3.0.24",
+    "bezier-easing": "^2.1.0",
+    "vite-svg-loader": "^3.1.2",
+    "vue": "^3.2.29",
+    "vue-masonry": "^0.15.0",
+    "vue-router": "^4.0.12",
+    "vue-scrollto": "^2.20.0",
+    "vue-sticky-directive": "^0.0.10",
+    "vue-sticky-js": "^0.0.4",
+    "vue3-lazyload": "^0.2.5-beta"
+  },
+  "devDependencies": {
+    "@rushstack/eslint-patch": "^1.1.0",
+    "@vitejs/plugin-vue": "^2.1.0",
+    "@vue/eslint-config-prettier": "^7.0.0",
+    "eslint": "^8.5.0",
+    "eslint-plugin-vue": "^8.2.0",
+    "prettier": "^2.5.1",
+    "sass": "^1.49.7",
+    "sass-loader": "^12.6.0",
+    "vite": "^2.7.13"
+  }
+}

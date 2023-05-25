@@ -1,0 +1,16 @@
+[
+  {
+    "name": "shop_layouts",
+    "title": "Built-In Shop Layouts"
+  },
+  {
+    "name": "shop_builder",
+    "title": "Shop Categories Builder",
+    "tag": "new"
+  },
+  {
+    "name": "shop_cart_checkout",
+    "title": "Cart & Checkout ",
+    "tag": "upd"
+  }
+]

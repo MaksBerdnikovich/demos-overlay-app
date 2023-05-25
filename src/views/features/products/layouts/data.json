@@ -1,0 +1,103 @@
+{
+  "items": [
+    {
+      "title": "Horizontal Tabs",
+      "url": "https://codex-themes.com/thegem/shop/product/hanging-lamp/",
+      "img1x": "1x/01-Horizontal-Tabs.jpg",
+      "img2x": "2x/01-Horizontal-Tabs.jpg"
+    },
+    {
+      "title": "Vertical Tabs",
+      "url": "https://codex-themes.com/thegem/shop/product/special-sunglasses/",
+      "tag": "new",
+      "img1x": "1x/02-Vertical-Tabs.jpg",
+      "img2x": "2x/02-Vertical-Tabs.jpg"
+    },
+    {
+      "title": "Accordion & Products Widgets",
+      "url": "https://codex-themes.com/thegem/shop/product/princess-eve/",
+      "img1x": "1x/03-Accordion-&-Products-Widgets.jpg",
+      "img2x": "2x/03-Accordion-&-Products-Widgets.jpg"
+    },
+    {
+      "title": "One By One, Centered Info",
+      "url": "https://codex-themes.com/thegem/shop/product/illusion-dron/",
+      "tag": "hot",
+      "img1x": "1x/04-One-By-One-Centered-Info.gif",
+      "img2x": "2x/04-One-By-One-Centered-Info.gif"
+    },
+    {
+      "title": "Custom Background, Boxed Info",
+      "url": "https://codex-themes.com/thegem/shop/product/fusion-dron-2/",
+      "img1x": "1x/05-Custom-Background-Boxed-Info.jpg",
+      "img2x": "2x/05-Custom-Background-Boxed-Info.jpg"
+    },
+    {
+      "title": "100% Width",
+      "url": "https://codex-themes.com/thegem/shop/product/exquisite-vase-3/",
+      "img1x": "1x/06-100-Width.jpg",
+      "img2x": "2x/06-100-Width.jpg"
+    },
+    {
+      "title": "Sticky Column",
+      "url": "https://codex-themes.com/thegem/shop/product/get-hot-outside/",
+      "img1x": "1x/07-Sticky-Column.gif",
+      "img2x": "2x/07-Sticky-Column.gif"
+    },
+    {
+      "title": "With Sidebar",
+      "url": "https://codex-themes.com/thegem/shop/product/floor-lamp/",
+      "img1x": "1x/08-With-Sidebar.jpg",
+      "img2x": "2x/08-With-Sidebar.jpg"
+    },
+    {
+      "title": "Page Builder In Description Tab",
+      "url": "https://codex-themes.com/thegem/shop/product/golden-heels/",
+      "img1x": "1x/09-Page-Builder-In-Description-Tab.jpg",
+      "img2x": "2x/09-Page-Builder-In-Description-Tab.jpg"
+    },
+    {
+      "title": "Page Builder Below Tabs",
+      "url": "https://codex-themes.com/thegem/shop/product/black-dreams/",
+      "img1x": "1x/10-Page-Builder-Below-Tabs.jpg",
+      "img2x": "2x/10-Page-Builder-Below-Tabs.jpg"
+    },
+    {
+      "title": "Gallery: Horizontal Thumbs",
+      "url": "https://codex-themes.com/thegem/shop/product/washed-go/",
+      "img1x": "1x/11-Gallery-Horizontal-Thumbs.jpg",
+      "img2x": "2x/11-Gallery-Horizontal-Thumbs.jpg"
+    },
+    {
+      "title": "Gallery: Vertical Thumbs",
+      "url": "https://codex-themes.com/thegem/shop/product/angels-touch/",
+      "img1x": "1x/12-Gallery-Vertical-Thumbs.jpg",
+      "img2x": "2x/12-Gallery-Vertical-Thumbs.jpg"
+    },
+    {
+      "title": "Gallery: Dots Navigation",
+      "url": "https://codex-themes.com/thegem/shop/product/chairs/",
+      "img1x": "1x/13-Gallery-Dots-Navigation.jpg",
+      "img2x": "2x/13-Gallery-Dots-Navigation.jpg"
+    },
+    {
+      "title": "Gallery: 1x Grid",
+      "url": "https://codex-themes.com/thegem/shop/product/urban-gem-shirt-2/",
+      "img1x": "1x/14-Gallery-1x-Grid.gif",
+      "img2x": "2x/14-Gallery-1x-Grid.gif"
+    },
+    {
+      "title": "Gallery: 2x Grid",
+      "url": "https://codex-themes.com/thegem/shop/product/fusion-dron-copy/",
+      "img1x": "1x/15-Gallery-2x-Grid.jpg",
+      "img2x": "2x/15-Gallery-2x-Grid.jpg"
+    },
+    {
+      "title": "Gallery: 3x Grid",
+      "url": "https://codex-themes.com/thegem/shop/product/urban-gem-shirt-3/",
+      "tag": "hot",
+      "img1x": "1x/16-Gallery-3x-Grid.jpg",
+      "img2x": "2x/16-Gallery-3x-Grid.jpg"
+    }
+  ]
+}

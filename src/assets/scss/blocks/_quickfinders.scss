@@ -1,0 +1,139 @@
+.quickfinders {
+    position: relative;
+    width: 100%;
+}
+
+.quickfinders-grid{
+    position: relative;
+
+    @include media-desktop-h1000{
+        padding-bottom: 40px;
+    }
+
+    ul{
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin: 0 -15px;
+    }
+
+    li{
+        margin-bottom: 30px;
+        padding: 0 15px;
+    }
+}
+
+.quickfinders-grid__item{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+    width: 234px;
+    height: 234px;
+    padding: 20px;
+    box-shadow: $shadow-quick;
+    border-radius: $corner;
+    background-color: $element-bg;
+    transition: $transition-slide-top;
+
+    @include media-lg{
+        width: 215px;
+        height: 215px;
+    }
+
+    &:hover{
+        opacity: 1;
+        transform: translateY(-3px);
+        transition: $transition-slide-top;
+    }
+}
+
+.quickfinders-grid__item .badge {
+    position: absolute;
+    right: 25px;
+    top: 0;
+
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 28px;
+    min-height: 13px;
+    padding: 0 5px;
+    margin-left: 5px;
+
+    font-size: 7px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1;
+    font-style: normal;
+    color: $light;
+
+    &.new{
+        background-color: $label-new;
+        color: $label-text-light;
+    }
+
+    &.hot{
+        background-color: $label-hot;
+        color: $label-text-light;
+    }
+
+    &.upd{
+        background-color: $label-upd;
+        color: $label-text-light;
+    }
+
+    &.special{
+        background-color: $label-special;
+        color: $label-text-dark;
+    }
+
+    &.trendy{
+        background-color: $label-trendy;
+        color: $label-text-dark;
+    }
+
+    &.top{
+        background-color: $label-top;
+        color: $label-text-dark;
+    }
+
+    &.premium{
+        background-color: $label-premium;
+        color: $label-text-light;
+    }
+}
+
+.quickfinders-grid__item .icon {
+    display: flex;
+    margin-bottom: 25px;
+    width: 64px;
+    height: 64px;
+
+    svg{
+        fill: $light;
+        width: 64px;
+        height: 64px;
+    }
+}
+
+.quickfinders-grid__item .title {
+    margin-bottom: 10px;
+
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 23px;
+    color: $light;
+}
+
+.quickfinders-grid__item .desc {
+    font-family: "Source Sans Pro";
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 23px;
+    color: #71737c;
+}

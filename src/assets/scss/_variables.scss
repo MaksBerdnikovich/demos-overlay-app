@@ -1,0 +1,62 @@
+// color variables
+$white: #ffffff;
+$black: #000000;
+$blue: #0d6efd;
+$indigo: #5442f0;
+$purple: #EA6BFF;
+$pink: #d63384;
+$red: #f44336;
+$orange: #fd7e14;
+$yellow: #FDB952;
+$green: #198754;
+$teal: #1de9b6;
+$cyan: #00bcd4;
+$anthracite: #52535b;
+$hoar: #99a9b5;
+
+// theme color variables
+$main: #b6c6c9;
+$primary: #1de9b6;
+$secondary: #39393e;
+$special: #d1ff30;
+$selected: #5442f0;
+$success: $green;
+$danger: $red;
+$warning: $yellow;
+$info: $purple;
+$light: $white;
+$dark: $black;
+
+// backgrounds
+$main-bg: #323237;
+$element-bg: #39393e;
+$scroll-bg: #3c3c42;
+$scroll-bg-track: transparent;
+$overlay-bg: rgba(0,0,0,.3);
+$popup-overlay-bg: rgba(51,58,66,.9);
+$popup-bg: #f1f1f1;
+
+//labels
+$label-text-light: #ffffff;
+$label-text-dark: #323237;
+$label-new: #f44336;
+$label-hot: #5442f0;
+$label-upd: #52535b;
+$label-special: #00bcd4;
+$label-trendy: #1de9b6;
+$label-top: #d1ff30;
+$label-premium: #52535b;
+
+// corners
+$corner: 5px;
+
+// transitions
+$transition: all .3s;
+$transition-grow: all .3s cubic-bezier(0.165, 0.840, 0.440, 1.000);
+$transition-slide-top: all .6s cubic-bezier(.19,1,.22,1);
+
+// shadows
+$shadow: 0px 20px 60px 0px rgba(0, 0, 0, 0.2);
+$shadow-quick: 0 20px 40px rgba(0, 0, 0, 0.1);
+$shadow-bottom: 0px 5px 15px 0px rgba(0,0,0,0.1);
+$shadow-top: 0px -3px 5px 0px rgba(0,0,0,0.1);

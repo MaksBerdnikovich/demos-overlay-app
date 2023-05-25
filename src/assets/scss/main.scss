@@ -1,0 +1,95 @@
+@import "reset";
+@import "variables";
+@import "mixins";
+
+@font-face {
+    font-family: 'Montserrat Ultra';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Montserrat Ultra Light'), local('Montserrat-UltraLight'),
+    url('@/assets/fonts/montserrat-100.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+    src: local('Montserrat ExtraLight'), local('Montserrat-ExtraLight'),
+    url('@/assets/fonts/montserrat-200.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Montserrat Regular'), local('Montserrat-Regular'),
+    url('@/assets/fonts/montserrat-400.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Montserrat Bold'), local('Montserrat-Bold'),
+    url('@/assets/fonts/montserrat-700.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 300;
+    src: local('SourceSansPro Light'), local('SourceSansPro-Light'),
+    url('@/assets/fonts/sspro-300.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: local('SourceSansPro Regular'), local('SourceSansPro-Regular'),
+    url('@/assets/fonts/sspro-400.woff') format('woff');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*:before,
+*:after {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+
+    color: $main;
+    background-color: $main-bg;
+
+    font-family: 'Montserrat';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1;
+
+    @include scrollbar(4px);
+}
+
+#thegem-demos {
+
+    @import "blocks/index";
+}
+
+
+
+
+
+
+
+

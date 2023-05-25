@@ -1,0 +1,166 @@
+{
+  "items": [
+    {
+      "title": "Elementor",
+      "url": "https://codex-themes.com/thegem/elementor-landing/",
+      "tag": "hot",
+      "icon": "elementor"
+    },
+    {
+      "title": "WPBakery",
+      "url": "https://codex-themes.com/thegem/features/features-visual-composer/",
+      "icon": "wpb"
+    },
+    {
+      "title": "One-Click Demo Import",
+      "url": "https://codex-themes.com/thegem/features/features-one-click-demo-import/",
+      "icon": "cursor"
+    },
+    {
+      "title": "TheGem Blocks",
+      "url": "https://codex-themes.com/thegem/blocks-landing/",
+      "tag": "special",
+      "icon": "shape"
+    },
+    {
+      "title": "Headers & Footers Builder",
+      "url": "https://codex-themes.com/thegem/header-and-footer-builder/",
+      "tag": "trendy",
+      "icon": "design"
+    },
+    {
+      "title": "Product Builder",
+      "url": "https://codex-themes.com/thegem/single-product-builder/",
+      "tag": "new",
+      "icon": "clickСollect"
+    },
+    {
+      "title": "Mega Menu Builder",
+      "url": "https://codex-themes.com/thegem/mega-menu-builder/",
+      "tag": "new",
+      "icon": "menubar"
+    },
+    {
+      "title": "Popups Builder",
+      "url": "https://codex-themes.com/thegem/popups-builder/",
+      "tag": "new",
+      "icon": "advertisement"
+    },
+    {
+      "title": "Built-In Header Layouts",
+      "url": "https://codex-themes.com/thegem/features/headers-layout-styles/",
+      "icon": "topDocking"
+    },
+    {
+      "title": "Fully Customizable",
+      "url": "https://codex-themes.com/thegem/fully-customizable/",
+      "icon": "slider"
+    },
+    {
+      "title": "Performance & SEO",
+      "url": "https://codex-themes.com/thegem/features/performance-seo/",
+      "tag": "top",
+      "icon": "severity"
+    },
+    {
+      "title": "Fullpage Scroll",
+      "url": "https://codex-themes.com/thegem/features/features-fullscreen-showcase/",
+      "tag": "trendy",
+      "icon": "fullPageView"
+    },
+    {
+      "title": "One-Pager Options",
+      "url": "https://codex-themes.com/thegem/features/features-one-pager-option/",
+      "icon": "onepager"
+    },
+    {
+      "title": "Sidebar & Widgets",
+      "url": "https://codex-themes.com/thegem/features/sidebars-widgets/",
+      "icon": "leftDocking"
+    },
+    {
+      "title": "Widgetised Footer",
+      "url": "https://codex-themes.com/thegem/features/features-widgetised-footer/",
+      "icon": "staticViewLevel2"
+    },
+    {
+      "title": "Page Layout Options",
+      "url": "https://codex-themes.com/thegem/features/page-layout-options/",
+      "icon": "spreadsheet2"
+    },
+    {
+      "title": "Extended Page Titles",
+      "url": "https://codex-themes.com/thegem/features/fancy-page-headings/",
+      "icon": "term"
+    },
+    {
+      "title": "Mega Menus",
+      "url": "https://codex-themes.com/thegem/features/features-mega-menu/",
+      "icon": "moreDetails"
+    },
+    {
+      "title": "Interactions",
+      "url": "https://codex-themes.com/thegem/interactions-landing/",
+      "tag": "new",
+      "icon": "comet"
+    },
+    {
+      "title": "Animated Headings",
+      "url": "https://codex-themes.com/thegem/features/animations/",
+      "tag": "new",
+      "icon": "textBox"
+    },
+    {
+      "title": "Video backgrounds",
+      "url": "https://codex-themes.com/thegem/features/features-video-backgrounds/",
+      "icon": "showingVideoFrames"
+    },
+    {
+      "title": "Parallax & Ken Burns",
+      "url": "https://codex-themes.com/thegem/features-parallax-backgrounds/parallax-ken-burns-backgrounds/",
+      "icon": "aperture"
+    },
+    {
+      "title": "AJAX Live Search",
+      "url": "https://codex-themes.com/thegem/features/ajax-live-search/",
+      "tag": "new",
+      "icon": "searchMore"
+    },
+    {
+      "title": "Revolution & Layer Sliders",
+      "url": "https://codex-themes.com/thegem/features/features-revolution-layer-sliders/",
+      "icon": "bursts"
+    },
+    {
+      "title": "Mobile & Retina Ready",
+      "url": "https://codex-themes.com/thegem/features/responsive-mobile-retina-ready/",
+      "icon": "smartphoneTablet"
+    },
+    {
+      "title": "Multilingual & RTL",
+      "url": "https://codex-themes.com/thegem/features/feature-wpml-multilingual-rtl/",
+      "icon": "globeEarth"
+    },
+    {
+      "title": "Plugins Compatibility",
+      "url": "https://codex-themes.com/thegem/features/plugins-compatibility/",
+      "icon": "disconnected"
+    },
+    {
+      "title": "GDPR Compliance",
+      "url": "https://codex-themes.com/thegem/gdpr/",
+      "icon": "protect"
+    },
+    {
+      "title": "Detailed Documentation",
+      "url": "https://codex-themes.com/thegem/features/one-pager-option/",
+      "icon": "graduationCap"
+    },
+    {
+      "title": "Lifetime Updates & Elite Support",
+      "url": "https://codex-themes.com/thegem/features/features-free-updates-elite-support/",
+      "tag": "premium",
+      "icon": "lifebuoy"
+    }
+  ]
+}

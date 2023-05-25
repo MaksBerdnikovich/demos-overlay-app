@@ -1,0 +1,99 @@
+{
+  "items": [
+    {
+      "title": "Shop Grid Features",
+      "url": "https://codex-themes.com/thegem/sites/products-grid-landing/",
+      "tag": "hot",
+      "img1x": "1x/01-Shop-Grid-Features.jpg",
+      "img2x": "2x/01-Shop-Grid-Features.jpg"
+    },
+    {
+      "title": "Ajax Filters: In Sidebar",
+      "url": "https://codex-themes.com/thegem/shop/",
+      "tag": "new",
+      "img1x": "1x/02-Ajax-Filters-In-Sidebar.jpg",
+      "img2x": "2x/02-Ajax-Filters-In-Sidebar.jpg"
+    },
+    {
+      "title": "Ajax Filters: Dropdowns",
+      "url": "https://codex-themes.com/thegem/shop/horizontal-filters/",
+      "tag": "new",
+      "img1x": "1x/03-Ajax-Filters-Dropdowns.jpg",
+      "img2x": "2x/03-Ajax-Filters-Dropdowns.jpg"
+    },
+    {
+      "title": "Ajax Filters: Hidden Sidebar",
+      "url": "https://codex-themes.com/thegem/shop/hidden-sidebar-filters/",
+      "img1x": "1x/04-Ajax-Filters-Hidden-Sidebar.jpg",
+      "img2x": "2x/04-Ajax-Filters-Hidden-Sidebar.jpg"
+    },
+    {
+      "title": "3x Columns & Load More",
+      "url": "https://codex-themes.com/thegem/shop/3x-columns-load-more/",
+      "img1x": "1x/05-3x-Columns-&-Load-More.jpg",
+      "img2x": "2x/05-3x-Columns-&-Load-More.jpg"
+    },
+    {
+      "title": "4x, Swatches & Infinite Scroll",
+      "url": "https://codex-themes.com/thegem/shop/4x-columns-infinite-scroll/",
+      "img1x": "1x/06-4x-Columns-&-Infinite-Scroll.jpg",
+      "img2x": "2x/06-4x-Columns-&-Infinite-Scroll.jpg"
+    },
+    {
+      "title": "5x Columns & Masonry Mode",
+      "url": "https://codex-themes.com/thegem/shop/5x-columns-masonry-mode/",
+      "img1x": "1x/07-5x-Columns-&-Masonry-Mode.jpg",
+      "img2x": "2x/07-5x-Columns-&-Masonry-Mode.jpg"
+    },
+    {
+      "title": "6x Columns & Skeleton Loader",
+      "url": "https://codex-themes.com/thegem/shop/6x-columns-title-disabled/",
+      "img1x": "1x/08-6x-Columns-&-Skeleton-Loader.jpg",
+      "img2x": "2x/08-6x-Columns-&-Skeleton-Loader.jpg"
+    },
+    {
+      "title": "Product List & Swatches",
+      "url": "https://codex-themes.com/thegem/shop/product-list/",
+      "tag": "new",
+      "img1x": "1x/16-Product-List.jpg",
+      "img2x": "2x/16-Product-List.jpg"
+    },
+    {
+      "title": "100% Width Layout ",
+      "url": "https://codex-themes.com/thegem/shop/100-width-mode/",
+      "img1x": "1x/09-100-Width-Layout.jpg",
+      "img2x": "2x/09-100-Width-Layout.jpg"
+    },
+    {
+      "title": "Catalog Mode",
+      "url": "https://codex-themes.com/thegem/shop/catalog-mode-square/",
+      "img1x": "1x/10-Catalog-Mode.jpg",
+      "img2x": "2x/10-Catalog-Mode.jpg"
+    },
+    {
+      "title": "Product Tabs",
+      "url": "https://codex-themes.com/thegem/shop/product-tabs/",
+      "tag": "hot",
+      "img1x": "1x/11-Product-Tabs.jpg",
+      "img2x": "2x/11-Product-Tabs.jpg"
+    },
+    {
+      "title": "Grid Product Presets",
+      "url": "https://codex-themes.com/thegem/shop/grid-product-presets/",
+      "img1x": "1x/12-Grid-Product-Presets.jpg",
+      "img2x": "2x/12-Grid-Product-Presets.jpg"
+    },
+    {
+      "title": "My Account",
+      "url": "https://codex-themes.com/thegem/shop/my-account/",
+      "img1x": "1x/15-My-Account.jpg",
+      "img2x": "2x/15-My-Account.jpg"
+    },
+    {
+      "title": "Wishlist",
+      "url": "https://codex-themes.com/thegem/shop/wishlist/",
+      "img1x": "1x/16-Wishlist.jpg",
+      "img2x": "2x/16-Wishlist.jpg"
+    }
+  ]
+}

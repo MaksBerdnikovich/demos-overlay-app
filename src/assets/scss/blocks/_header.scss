@@ -1,0 +1,251 @@
+.header{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding: 40px 50px;
+
+    background-color: $element-bg;
+
+    @include media-md{
+        display: none;
+        padding: 0;
+        background-color: transparent;
+    }
+}
+
+.header__logo{
+    display: flex;
+    justify-content: center;
+
+    @include media-md{
+        min-height: 65px;
+        align-items: center;
+        background-color: $element-bg;
+    }
+}
+
+.header__logo-item{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: $light;
+
+    svg{
+        width: 40px;
+        margin: -5px 8px 0 0;
+
+        @include media-md{
+            width: 30px;
+        }
+    }
+
+    span{
+        font-size: 24px;
+        font-weight: 700;
+
+        @include media-md{
+            font-size: 19px;
+        }
+    }
+}
+
+.header__logo-item .action{
+    position: absolute;
+    right: -60px;
+    top: -45px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 60px;
+    height: 60px;
+    background-color: $selected;
+    border-radius: 50%;
+
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 13px;
+    color: $white;
+
+    i{
+        font-size: 15px;
+        font-style: normal;
+    }
+}
+
+.header__info{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+
+    @include media-md{
+        display: none;
+    }
+}
+
+.header__info-text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 50px;
+    width: 650px;
+    max-width: 680px;
+    min-height: 90px;
+
+    &.action{
+        width: 680px;
+    }
+
+    p{
+        font-family: 'Source Sans Pro';
+        font-size: 19px;
+        font-weight: 300;
+        line-height: 30px;
+    }
+
+    .badge{
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        min-width: 40px;
+        min-height: 22px;
+        margin-left: 5px;
+        line-height: 1.2;
+
+        background-color: $special;
+        color: $secondary;
+    }
+
+    .selection{
+        position: relative;
+        z-index: 1;
+    }
+
+    .selection:after{
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 8px;
+        background-color: $selected;
+        z-index: -1;
+    }
+
+    .action-normal{
+        position: relative;
+        display: inline-flex;
+        padding: 0 4px;
+        background-color: $black;
+        color: $white;
+
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 1.2;
+    }
+    .action-normal:after{
+        content: '';
+        position: absolute;
+        top: 50%;
+        left: 0;
+        width: 100%;
+        height: 1px;
+        background-color: $white;
+    }
+
+    .action-sale{
+        position: relative;
+        display: inline-flex;
+        padding: 0 4px;
+        background-color: $special;
+        color: $black;
+        line-height: 1.2;
+    }
+}
+
+.header__info-link a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    min-width: 200px;
+    min-height: 40px;
+
+    font-size: 14px;
+    font-weight: 700;
+
+    &:hover{
+        opacity: 1;
+    }
+}
+.header__info-link .info-link__secondary{
+    background-color: $white;
+    color: $secondary;
+
+    &:hover{
+        background-color: $anthracite;
+        color: $white;
+    }
+}
+.header__info-link .info-link__primary{
+    background-color: $teal;
+    color: $secondary;
+
+    &:hover{
+        background-color: $white;
+        color: $secondary;
+    }
+}
+
+.header__nav{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+    @include media-md{
+        margin: 0;
+        padding: 20px 20px 25px 20px;
+        align-items: center;
+    }
+
+    ul{
+        display: flex;
+        list-style-type: none;
+    }
+
+    li{
+        padding: 0 35px;
+
+        @include media-md{
+            padding: 0 20px;
+        }
+
+        @include media-xsm{
+            padding: 0 10px;
+        }
+    }
+}
+
+.header__nav-item{
+    position: relative;
+    display: flex;
+    padding: 7px 10px;
+
+    font-size: 19px;
+    font-weight: 700;
+    color: $light;
+
+    @include slide-grow;
+
+    @include media-md{
+        font-size: 14px;
+        padding: 5px 10px;
+
+        @include slide-grow($light, 2px)
+    }
+}

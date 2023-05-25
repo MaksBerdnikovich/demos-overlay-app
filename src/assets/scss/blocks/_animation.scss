@@ -1,0 +1,41 @@
+// On-in Fade
+.mode-fade-enter-active,
+.mode-fade-leave-active {
+    transition: opacity .2s linear;
+}
+.mode-fade-enter-from,
+.mode-fade-leave-to {
+    opacity: 0
+}
+
+// Slide Top
+.slide-top{
+    transition: opacity .4s, transform .2s;
+    animation: slide-top .4s;
+}
+.slide-top-steps {
+    transition: opacity .6s, transform .4s;
+    animation: slide-top .6s;
+}
+
+@keyframes slide-top {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes slide-bottom {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
